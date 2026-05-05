@@ -1,0 +1,23 @@
+name: Fetch Podcast Episodes
+
+on:
+  schedule:
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch podcast RSS feeds
+        run: python3 fetch_podcasts.py > podcasts.json
+      - name: Commit updated episodes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add podcasts.json
+          git diff --cached --quiet || git commit -m "chore: update podcast episodes $(date -u +%Y-%m-%d)"
+          git push
