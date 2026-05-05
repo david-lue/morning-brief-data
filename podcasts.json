@@ -1,1 +1,41 @@
-{"fetched_at":"","date":"","episodes":[]}
+{
+  "fetched_at": "2026-05-05T18:45:26.124431+00:00",
+  "date": "2026-05-05",
+  "episodes": [
+    {
+      "name": "The Headlines",
+      "title": "Ships Under Fire in Strait of Hormuz, and Kennedy\u2019s Pushback on Antidepressants",
+      "date": "Today",
+      "duration": "9 min",
+      "is_today": true
+    },
+    {
+      "name": "The Daily",
+      "title": "Democratic Anger and Republican Revenge: Welcome to the Primaries",
+      "date": "Today",
+      "duration": "33 min",
+      "is_today": true
+    },
+    {
+      "name": "AI Daily Brief",
+      "title": "Is AI Doom Going Out of Style?",
+      "date": "May 4",
+      "duration": "27 min",
+      "is_today": false
+    },
+    {
+      "name": "AI + a16z",
+      "title": "From Vector Databases to Knowledge Engines: The Next Layer of AI",
+      "date": "Today",
+      "duration": "46 min",
+      "is_today": true
+    },
+    {
+      "name": "Hugging Face",
+      "title": "Hugging the Billions: AI Financial Strategies",
+      "date": "May 4",
+      "duration": "20 min",
+      "is_today": false
+    }
+  ]
+}
