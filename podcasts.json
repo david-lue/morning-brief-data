@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-05-05T18:45:26.124431+00:00",
-  "date": "2026-05-05",
+  "fetched_at": "2026-05-06T18:06:40.134244+00:00",
+  "date": "2026-05-06",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Ships Under Fire in Strait of Hormuz, and Kennedy\u2019s Pushback on Antidepressants",
+      "title": "President Trump\u2019s Sudden U-Turn, and a $1 Billion Ballroom Proposal",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Democratic Anger and Republican Revenge: Welcome to the Primaries",
+      "title": "Your Kids Asked the Artemis Astronauts Questions. They Answered.",
       "date": "Today",
-      "duration": "33 min",
+      "duration": "34 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Is AI Doom Going Out of Style?",
-      "date": "May 4",
-      "duration": "27 min",
+      "title": "Why OpenAI and Anthropic Are Becoming Consultants",
+      "date": "May 5",
+      "duration": "26 min",
       "is_today": false
     },
     {
       "name": "AI + a16z",
       "title": "From Vector Databases to Knowledge Engines: The Next Layer of AI",
-      "date": "Today",
+      "date": "May 5",
       "duration": "46 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "Hugging Face",
-      "title": "Hugging the Billions: AI Financial Strategies",
-      "date": "May 4",
-      "duration": "20 min",
+      "title": "Key Takeaways from Anthropic\u2019s Wall Street Day",
+      "date": "May 5",
+      "duration": "22 min",
       "is_today": false
     }
   ]
