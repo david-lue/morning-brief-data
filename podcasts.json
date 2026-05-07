@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-06T18:06:40.134244+00:00",
-  "date": "2026-05-06",
+  "fetched_at": "2026-05-07T18:16:21.003973+00:00",
+  "date": "2026-05-07",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "President Trump\u2019s Sudden U-Turn, and a $1 Billion Ballroom Proposal",
+      "title": "Surging Gas Prices Shake Americans, and How Ted Turner Unleashed 24-Hour News",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Your Kids Asked the Artemis Astronauts Questions. They Answered.",
+      "title": "What the End of Spirit Airlines Means for the Future of Flying",
       "date": "Today",
-      "duration": "34 min",
+      "duration": "32 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why OpenAI and Anthropic Are Becoming Consultants",
-      "date": "May 5",
-      "duration": "26 min",
+      "title": "Who Cares About Consumer AI",
+      "date": "May 6",
+      "duration": "31 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Key Takeaways from Anthropic\u2019s Wall Street Day",
-      "date": "May 5",
-      "duration": "22 min",
+      "title": "GPT 5.5: New Tools from OpenAI",
+      "date": "May 6",
+      "duration": "11 min",
       "is_today": false
     }
   ]
