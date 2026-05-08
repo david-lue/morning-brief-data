@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-07T18:16:21.003973+00:00",
-  "date": "2026-05-07",
+  "fetched_at": "2026-05-08T16:03:28.903883+00:00",
+  "date": "2026-05-08",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Surging Gas Prices Shake Americans, and How Ted Turner Unleashed 24-Hour News",
+      "title": "Trump Calls Iran Strikes a \u2018Trifle,\u2019 and the Latest on the Hantavirus Outbreak",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "14 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "What the End of Spirit Airlines Means for the Future of Flying",
+      "title": "The Resurrection of Michael Jackson",
       "date": "Today",
-      "duration": "32 min",
+      "duration": "33 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Who Cares About Consumer AI",
-      "date": "May 6",
+      "title": "Surprise Elon Anthropic Team Up Reshapes the AI Race",
+      "date": "May 7",
       "duration": "31 min",
       "is_today": false
     },
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "GPT 5.5: New Tools from OpenAI",
-      "date": "May 6",
-      "duration": "11 min",
+      "title": "Claude 'Dreaming': A Deep Dive into New AI",
+      "date": "May 7",
+      "duration": "16 min",
       "is_today": false
     }
   ]
