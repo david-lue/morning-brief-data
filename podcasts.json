@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-08T16:03:28.903883+00:00",
-  "date": "2026-05-08",
+  "fetched_at": "2026-05-09T14:36:35.645410+00:00",
+  "date": "2026-05-09",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Trump Calls Iran Strikes a \u2018Trifle,\u2019 and the Latest on the Hantavirus Outbreak",
-      "date": "Today",
+      "date": "May 8",
       "duration": "14 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "The Resurrection of Michael Jackson",
+      "title": "A Personal Finance Star on What Millennials Need From Their Boomer Parents",
       "date": "Today",
       "duration": "33 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Surprise Elon Anthropic Team Up Reshapes the AI Race",
-      "date": "May 7",
+      "title": "The Week the AI Story Shifted",
+      "date": "May 8",
       "duration": "31 min",
       "is_today": false
     },
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Claude 'Dreaming': A Deep Dive into New AI",
-      "date": "May 7",
-      "duration": "16 min",
+      "title": "Anthropic Aiming for $1 Trillion Valuation",
+      "date": "May 8",
+      "duration": "15 min",
       "is_today": false
     }
   ]
