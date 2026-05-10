@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-09T14:36:35.645410+00:00",
-  "date": "2026-05-09",
+  "fetched_at": "2026-05-10T14:39:11.025314+00:00",
+  "date": "2026-05-10",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,16 +11,16 @@
     },
     {
       "name": "The Daily",
-      "title": "A Personal Finance Star on What Millennials Need From Their Boomer Parents",
+      "title": "For Mother\u2019s Day, Classic Mom-isms",
       "date": "Today",
-      "duration": "33 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Week the AI Story Shifted",
-      "date": "May 8",
-      "duration": "31 min",
+      "title": "How to Build an AI Native Team with Mike Cannon-Brookes",
+      "date": "May 9",
+      "duration": "30 min",
       "is_today": false
     },
     {
