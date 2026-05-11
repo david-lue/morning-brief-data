@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-10T14:39:11.025314+00:00",
-  "date": "2026-05-10",
+  "fetched_at": "2026-05-11T11:47:22.559524+00:00",
+  "date": "2026-05-11",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump Calls Iran Strikes a \u2018Trifle,\u2019 and the Latest on the Hantavirus Outbreak",
-      "date": "May 8",
-      "duration": "14 min",
-      "is_today": false
+      "title": "Trump Rejects Iran\u2019s Offer, and 17 Passengers Exposed to Hantavirus Return to U.S.",
+      "date": "Today",
+      "duration": "8 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "For Mother\u2019s Day, Classic Mom-isms",
+      "title": "Is China Winning the A.I. Race?",
       "date": "Today",
       "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How to Build an AI Native Team with Mike Cannon-Brookes",
-      "date": "May 9",
-      "duration": "30 min",
+      "title": "The New Jobs AI Will Create",
+      "date": "May 10",
+      "duration": "31 min",
       "is_today": false
     },
     {
