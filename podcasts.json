@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-05-11T18:05:32.651281+00:00",
-  "date": "2026-05-11",
+  "fetched_at": "2026-05-12T18:20:53.060927+00:00",
+  "date": "2026-05-12",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump Rejects Iran\u2019s Offer, and 17 Passengers Exposed to Hantavirus Return to U.S.",
+      "title": "How Iran\u2019s Internet Blackout Is Crippling Its Economy, and the Fight Over Fruit-Flavored Vapes",
       "date": "Today",
-      "duration": "8 min",
+      "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Is China Winning the A.I. Race?",
+      "title": "Why More Americans Are Seeking Religion",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "43 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The New Jobs AI Will Create",
-      "date": "May 10",
-      "duration": "31 min",
+      "title": "The Best Way to Talk to Your AI Agents",
+      "date": "May 11",
+      "duration": "30 min",
       "is_today": false
     },
     {
       "name": "AI + a16z",
-      "title": "From Vector Databases to Knowledge Engines: The Next Layer of AI",
-      "date": "May 5",
-      "duration": "46 min",
-      "is_today": false
+      "title": "AI Infrastructure, Distribution, and the Next Wave of Software",
+      "date": "Today",
+      "duration": "39 min",
+      "is_today": true
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic Aiming for $1 Trillion Valuation",
-      "date": "May 8",
-      "duration": "15 min",
+      "title": "Google Stops AI Exploit, Nadella Testifies, OpenAI's New $4B Unit",
+      "date": "May 11",
+      "duration": "16 min",
       "is_today": false
     }
   ]
