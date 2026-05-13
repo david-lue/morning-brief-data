@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-05-12T18:20:53.060927+00:00",
-  "date": "2026-05-12",
+  "fetched_at": "2026-05-13T18:23:01.729464+00:00",
+  "date": "2026-05-13",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "How Iran\u2019s Internet Blackout Is Crippling Its Economy, and the Fight Over Fruit-Flavored Vapes",
+      "title": "U.S. Intelligence Undercuts Trump\u2019s War Claims, and the Cost of \u2018Alligator Alcatraz\u2019",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "8 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Why More Americans Are Seeking Religion",
+      "title": "Two Superpowers Across the Table",
       "date": "Today",
-      "duration": "43 min",
+      "duration": "26 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Best Way to Talk to Your AI Agents",
-      "date": "May 11",
+      "title": "Towards AI That Can Actually Interact",
+      "date": "May 12",
       "duration": "30 min",
       "is_today": false
     },
     {
       "name": "AI + a16z",
       "title": "AI Infrastructure, Distribution, and the Next Wave of Software",
-      "date": "Today",
+      "date": "May 12",
       "duration": "39 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "Hugging Face",
-      "title": "Google Stops AI Exploit, Nadella Testifies, OpenAI's New $4B Unit",
-      "date": "May 11",
-      "duration": "16 min",
+      "title": "Amazon Devs \"tokenmaxxing\", SpaceX &amp; Google Collab, Anthropic Legal Fight",
+      "date": "May 12",
+      "duration": "17 min",
       "is_today": false
     }
   ]
