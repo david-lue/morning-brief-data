@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-13T18:23:01.729464+00:00",
-  "date": "2026-05-13",
+  "fetched_at": "2026-05-14T17:28:13.706890+00:00",
+  "date": "2026-05-14",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "U.S. Intelligence Undercuts Trump\u2019s War Claims, and the Cost of \u2018Alligator Alcatraz\u2019",
+      "title": "China\u2019s Growing Leverage Over the U.S., and How Oil Companies Hit the Jackpot",
       "date": "Today",
-      "duration": "8 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Two Superpowers Across the Table",
+      "title": "A New Leader \u2014 and a New Showdown \u2014 at the Fed",
       "date": "Today",
-      "duration": "26 min",
+      "duration": "36 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Towards AI That Can Actually Interact",
-      "date": "May 12",
-      "duration": "30 min",
+      "title": "In Defense of Tokenmaxxing",
+      "date": "May 13",
+      "duration": "28 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Amazon Devs \"tokenmaxxing\", SpaceX &amp; Google Collab, Anthropic Legal Fight",
-      "date": "May 12",
-      "duration": "17 min",
+      "title": "Claude for Small Business ships | Altman Testifies He's 'truthful'",
+      "date": "May 13",
+      "duration": "15 min",
       "is_today": false
     }
   ]
