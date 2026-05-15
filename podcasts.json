@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-14T17:28:13.706890+00:00",
-  "date": "2026-05-14",
+  "fetched_at": "2026-05-15T17:13:30.805784+00:00",
+  "date": "2026-05-15",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "China\u2019s Growing Leverage Over the U.S., and How Oil Companies Hit the Jackpot",
+      "title": "A Surge of U.S. Spy Planes Over Cuba, and Retailers\u2019 $20 Billion Bet on Physical Stores",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "13 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A New Leader \u2014 and a New Showdown \u2014 at the Fed",
+      "title": "Lessons From the Hantavirus Outbreak",
       "date": "Today",
-      "duration": "36 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "In Defense of Tokenmaxxing",
-      "date": "May 13",
-      "duration": "28 min",
+      "title": "RIP Golden Age of Agent Experimentation 2026-2026",
+      "date": "May 14",
+      "duration": "32 min",
       "is_today": false
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Claude for Small Business ships | Altman Testifies He's 'truthful'",
-      "date": "May 13",
+      "title": "Anthropic + Gates Give $200M to Healthcare | Cerebras IPO Doubles",
+      "date": "May 14",
       "duration": "15 min",
       "is_today": false
     }
