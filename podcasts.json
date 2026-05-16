@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-15T17:13:30.805784+00:00",
-  "date": "2026-05-15",
+  "fetched_at": "2026-05-16T14:43:02.761700+00:00",
+  "date": "2026-05-16",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "A Surge of U.S. Spy Planes Over Cuba, and Retailers\u2019 $20 Billion Bet on Physical Stores",
-      "date": "Today",
+      "date": "May 15",
       "duration": "13 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Lessons From the Hantavirus Outbreak",
+      "title": "Graham Platner Thinks a Political Revolution Is Coming",
       "date": "Today",
-      "duration": "27 min",
+      "duration": "77 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "RIP Golden Age of Agent Experimentation 2026-2026",
-      "date": "May 14",
-      "duration": "32 min",
+      "title": "Google\u2019s Big AI Test Comes Next Week",
+      "date": "May 15",
+      "duration": "30 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic + Gates Give $200M to Healthcare | Cerebras IPO Doubles",
-      "date": "May 14",
-      "duration": "15 min",
+      "title": "ChatGPT's in Your Bank, Google Spams the GEO Industry, Brockman Takes OpenAI Product",
+      "date": "May 15",
+      "duration": "19 min",
       "is_today": false
     }
   ]
