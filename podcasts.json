@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-16T14:43:02.761700+00:00",
-  "date": "2026-05-16",
+  "fetched_at": "2026-05-17T14:46:06.489529+00:00",
+  "date": "2026-05-17",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Graham Platner Thinks a Political Revolution Is Coming",
+      "title": "Can We Reverse Aging?",
       "date": "Today",
-      "duration": "77 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Google\u2019s Big AI Test Comes Next Week",
-      "date": "May 15",
-      "duration": "30 min",
-      "is_today": false
+      "title": "AI Inequality",
+      "date": "Today",
+      "duration": "26 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
