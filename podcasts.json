@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-05-17T14:46:06.489529+00:00",
-  "date": "2026-05-17",
+  "fetched_at": "2026-05-18T18:15:15.141662+00:00",
+  "date": "2026-05-18",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A Surge of U.S. Spy Planes Over Cuba, and Retailers\u2019 $20 Billion Bet on Physical Stores",
-      "date": "May 15",
-      "duration": "13 min",
-      "is_today": false
+      "title": "Trump\u2019s Approval Rating Hits New Low, and Ebola Outbreak Declared a Global Health Emergency",
+      "date": "Today",
+      "duration": "9 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Can We Reverse Aging?",
+      "title": "The Courtroom Showdown Between Elon Musk and Sam Altman",
       "date": "Today",
-      "duration": "29 min",
+      "duration": "36 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "AI Inequality",
-      "date": "Today",
+      "date": "May 17",
       "duration": "26 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
