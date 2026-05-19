@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-05-18T18:15:15.141662+00:00",
-  "date": "2026-05-18",
+  "fetched_at": "2026-05-19T18:19:33.474464+00:00",
+  "date": "2026-05-19",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump\u2019s Approval Rating Hits New Low, and Ebola Outbreak Declared a Global Health Emergency",
+      "title": "Trump\u2019s New $1.8 Billion Pot of Money, and a Deadly Mosque Attack in California",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Courtroom Showdown Between Elon Musk and Sam Altman",
+      "title": "A Trump Dissenter Fights for His Political Life",
       "date": "Today",
-      "duration": "36 min",
+      "duration": "35 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Inequality",
-      "date": "May 17",
-      "duration": "26 min",
+      "title": "Beating the AI Doom Cycle",
+      "date": "May 18",
+      "duration": "33 min",
       "is_today": false
     },
     {
       "name": "AI + a16z",
-      "title": "AI Infrastructure, Distribution, and the Next Wave of Software",
-      "date": "May 12",
-      "duration": "39 min",
-      "is_today": false
+      "title": "Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software",
+      "date": "Today",
+      "duration": "30 min",
+      "is_today": true
     },
     {
       "name": "Hugging Face",
-      "title": "ChatGPT's in Your Bank, Google Spams the GEO Industry, Brockman Takes OpenAI Product",
-      "date": "May 15",
-      "duration": "19 min",
+      "title": "Dominion's Acquisition: A Strategic Overview",
+      "date": "May 18",
+      "duration": "16 min",
       "is_today": false
     }
   ]
