@@ -1,34 +1,34 @@
 {
-  "fetched_at": "2026-05-19T18:19:33.474464+00:00",
-  "date": "2026-05-19",
+  "fetched_at": "2026-05-20T19:35:54.702283+00:00",
+  "date": "2026-05-20",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump\u2019s New $1.8 Billion Pot of Money, and a Deadly Mosque Attack in California",
+      "title": "New Immunity for President Trump, and an Audacious Plan for Regime Change in Iran",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A Trump Dissenter Fights for His Political Life",
+      "title": "Trump\u2019s Taxpayer-Funded Revenge Plan",
       "date": "Today",
-      "duration": "35 min",
+      "duration": "25 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Beating the AI Doom Cycle",
-      "date": "May 18",
-      "duration": "33 min",
+      "title": "9 Codex Tips From the Codex Team",
+      "date": "May 19",
+      "duration": "30 min",
       "is_today": false
     },
     {
       "name": "AI + a16z",
       "title": "Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software",
-      "date": "Today",
+      "date": "May 19",
       "duration": "30 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "Hugging Face",
