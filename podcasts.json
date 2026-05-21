@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-20T19:35:54.702283+00:00",
-  "date": "2026-05-20",
+  "fetched_at": "2026-05-21T18:16:10.058193+00:00",
+  "date": "2026-05-21",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "New Immunity for President Trump, and an Audacious Plan for Regime Change in Iran",
+      "title": "Inside Trump\u2019s Pressure Campaign on Cuba, and Why Food Banks Are Getting Squeezed",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Trump\u2019s Taxpayer-Funded Revenge Plan",
+      "title": "Why the U.S. Just Indicted Cuba\u2019s Former President",
       "date": "Today",
-      "duration": "25 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "9 Codex Tips From the Codex Team",
-      "date": "May 19",
-      "duration": "30 min",
+      "title": "Why Google Isn't Chasing Claude Code",
+      "date": "May 20",
+      "duration": "36 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Dominion's Acquisition: A Strategic Overview",
-      "date": "May 18",
-      "duration": "16 min",
+      "title": "OpenAI and SpaceX are Racing to IPO First",
+      "date": "May 20",
+      "duration": "18 min",
       "is_today": false
     }
   ]
