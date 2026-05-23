@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-22T17:29:46.126048+00:00",
-  "date": "2026-05-22",
+  "fetched_at": "2026-05-23T14:51:18.235198+00:00",
+  "date": "2026-05-23",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Trump Faces Rare G.O.P. Revolt, and Democrats Mock Their Own Party\u2019s Report",
-      "date": "Today",
+      "date": "May 22",
       "duration": "14 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Trump\u2019s National Support Is Cratering",
+      "title": "Nicolas Cage Made Himself a Legend. Then He Had to Live With It.",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "62 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Anthropic Just Reset AI Expectations",
-      "date": "May 21",
-      "duration": "26 min",
+      "title": "AI\u2019s New Acceleration Phase",
+      "date": "May 22",
+      "duration": "24 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Welcoming Innovations: SpaceX and AI",
-      "date": "Today",
-      "duration": "17 min",
-      "is_today": true
+      "title": "SpaceX's Vision: The $26.5 Trillion AI Market",
+      "date": "May 22",
+      "duration": "13 min",
+      "is_today": false
     }
   ]
 }
