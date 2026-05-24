@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-23T14:51:18.235198+00:00",
-  "date": "2026-05-23",
+  "fetched_at": "2026-05-24T14:53:15.509604+00:00",
+  "date": "2026-05-24",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Nicolas Cage Made Himself a Legend. Then He Had to Live With It.",
+      "title": "Sites Unseen: What\u2019s Revealed by Traveling With the Blind",
       "date": "Today",
-      "duration": "62 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI\u2019s New Acceleration Phase",
-      "date": "May 22",
-      "duration": "24 min",
-      "is_today": false
+      "title": "Why Agents Still Need Humans",
+      "date": "Today",
+      "duration": "26 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
