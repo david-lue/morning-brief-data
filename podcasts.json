@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-24T14:53:15.509604+00:00",
-  "date": "2026-05-24",
+  "fetched_at": "2026-05-25T17:23:39.355007+00:00",
+  "date": "2026-05-25",
   "episodes": [
     {
       "name": "The Headlines",
@@ -12,16 +12,16 @@
     {
       "name": "The Daily",
       "title": "Sites Unseen: What\u2019s Revealed by Traveling With the Blind",
-      "date": "Today",
+      "date": "May 24",
       "duration": "27 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI Daily Brief",
       "title": "Why Agents Still Need Humans",
-      "date": "Today",
+      "date": "May 24",
       "duration": "26 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
