@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-25T17:23:39.355007+00:00",
-  "date": "2026-05-25",
+  "fetched_at": "2026-05-26T19:30:47.056803+00:00",
+  "date": "2026-05-26",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump Faces Rare G.O.P. Revolt, and Democrats Mock Their Own Party\u2019s Report",
-      "date": "May 22",
-      "duration": "14 min",
-      "is_today": false
+      "title": "White House Shakes Up Green Card Policy, and the Pope Takes On A.I.",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Sites Unseen: What\u2019s Revealed by Traveling With the Blind",
-      "date": "May 24",
+      "title": "A Flood of New, Deadlier Drugs",
+      "date": "Today",
       "duration": "27 min",
-      "is_today": false
+      "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why Agents Still Need Humans",
-      "date": "May 24",
-      "duration": "26 min",
+      "title": "The 4 AI Team Members Execs Should Hire Right Now",
+      "date": "May 25",
+      "duration": "32 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "SpaceX's Vision: The $26.5 Trillion AI Market",
-      "date": "May 22",
-      "duration": "13 min",
+      "title": "Hugging Face and AI Interaction Models",
+      "date": "May 25",
+      "duration": "14 min",
       "is_today": false
     }
   ]
