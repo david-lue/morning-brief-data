@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-26T19:30:47.056803+00:00",
-  "date": "2026-05-26",
+  "fetched_at": "2026-05-27T19:35:29.461460+00:00",
+  "date": "2026-05-27",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "White House Shakes Up Green Card Policy, and the Pope Takes On A.I.",
+      "title": "A MAGA Victory in Texas, and the Trump Administration\u2019s New Ebola Plan",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A Flood of New, Deadlier Drugs",
+      "title": "The Whiplash Over a Possible Peace Deal With Iran",
       "date": "Today",
-      "duration": "27 min",
+      "duration": "26 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The 4 AI Team Members Execs Should Hire Right Now",
-      "date": "May 25",
-      "duration": "32 min",
+      "title": "What the Pope Actually Said About AI",
+      "date": "May 26",
+      "duration": "26 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Hugging Face and AI Interaction Models",
-      "date": "May 25",
-      "duration": "14 min",
+      "title": "Uber's AI Spending, the Pope on AI, TikTok and Universal's AI Music Deal",
+      "date": "May 26",
+      "duration": "18 min",
       "is_today": false
     }
   ]
