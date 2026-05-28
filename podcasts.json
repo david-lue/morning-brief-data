@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-05-27T19:35:29.461460+00:00",
-  "date": "2026-05-27",
+  "fetched_at": "2026-05-28T19:54:55.102669+00:00",
+  "date": "2026-05-28",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A MAGA Victory in Texas, and the Trump Administration\u2019s New Ebola Plan",
+      "title": "Why Texas Students Are Being Tackled and Tasered, and Trump\u2019s Latest Target for Retribution",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Whiplash Over a Possible Peace Deal With Iran",
+      "title": "Can A.I. Make People Feel Less Lonely?",
       "date": "Today",
-      "duration": "26 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "What the Pope Actually Said About AI",
-      "date": "May 26",
-      "duration": "26 min",
-      "is_today": false
+      "title": "The Case for an AI Token Tax",
+      "date": "Today",
+      "duration": "23 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Uber's AI Spending, the Pope on AI, TikTok and Universal's AI Music Deal",
-      "date": "May 26",
-      "duration": "18 min",
-      "is_today": false
+      "title": "AI's Impact on Financial Performance",
+      "date": "Today",
+      "duration": "14 min",
+      "is_today": true
     }
   ]
 }
