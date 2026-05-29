@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-05-28T19:54:55.102669+00:00",
-  "date": "2026-05-28",
+  "fetched_at": "2026-05-29T19:56:03.160679+00:00",
+  "date": "2026-05-29",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Why Texas Students Are Being Tackled and Tasered, and Trump\u2019s Latest Target for Retribution",
+      "title": "U.S. Ramps Up Deadly Boat Strikes, and What Trump\u2019s Stock Trades Show",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "15 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Can A.I. Make People Feel Less Lonely?",
+      "title": "Stranded in the Strait of Hormuz",
       "date": "Today",
-      "duration": "29 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "The Case for an AI Token Tax",
-      "date": "Today",
+      "date": "May 28",
       "duration": "23 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "AI's Impact on Financial Performance",
-      "date": "Today",
+      "date": "May 28",
       "duration": "14 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
