@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-29T19:56:03.160679+00:00",
-  "date": "2026-05-29",
+  "fetched_at": "2026-05-30T14:57:42.787787+00:00",
+  "date": "2026-05-30",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "U.S. Ramps Up Deadly Boat Strikes, and What Trump\u2019s Stock Trades Show",
-      "date": "Today",
+      "date": "May 29",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Stranded in the Strait of Hormuz",
+      "title": "Want to \u2018Optimize\u2019 Your Happiness? This Happiness Expert Says: Don\u2019t.",
       "date": "Today",
-      "duration": "27 min",
+      "duration": "47 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Case for an AI Token Tax",
-      "date": "May 28",
-      "duration": "23 min",
+      "title": "Claude Opus 4.8 First Impressions",
+      "date": "May 29",
+      "duration": "28 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "AI's Impact on Financial Performance",
-      "date": "May 28",
-      "duration": "14 min",
+      "title": "Anthropic's $965 Billion Leap: AI Game Changer",
+      "date": "May 29",
+      "duration": "16 min",
       "is_today": false
     }
   ]
