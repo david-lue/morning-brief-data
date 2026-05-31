@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-30T14:57:42.787787+00:00",
-  "date": "2026-05-30",
+  "fetched_at": "2026-05-31T15:52:48.794447+00:00",
+  "date": "2026-05-31",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Want to \u2018Optimize\u2019 Your Happiness? This Happiness Expert Says: Don\u2019t.",
+      "title": "Olivia Rodrigo Tried Writing Love Songs. Then Life Got Messy.",
       "date": "Today",
-      "duration": "47 min",
+      "duration": "90 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Claude Opus 4.8 First Impressions",
-      "date": "May 29",
-      "duration": "28 min",
-      "is_today": false
+      "title": "How to Use /Goal to Do More With AI",
+      "date": "Today",
+      "duration": "22 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
