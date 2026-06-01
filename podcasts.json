@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-05-31T15:52:48.794447+00:00",
-  "date": "2026-05-31",
+  "fetched_at": "2026-06-01T22:19:14.452486+00:00",
+  "date": "2026-06-01",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "U.S. Ramps Up Deadly Boat Strikes, and What Trump\u2019s Stock Trades Show",
-      "date": "May 29",
-      "duration": "15 min",
-      "is_today": false
+      "title": "Inside an Ebola Ward, and a Roadblock for Trump\u2019s $1.8 Billion Fund",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Olivia Rodrigo Tried Writing Love Songs. Then Life Got Messy.",
+      "title": "Inside Trump\u2019s Mad Dash to Renovate Washington",
       "date": "Today",
-      "duration": "90 min",
+      "duration": "37 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How to Use /Goal to Do More With AI",
+      "title": "The AI Token Shortage Begins [AI Monthly Recap]",
       "date": "Today",
-      "duration": "22 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic's $965 Billion Leap: AI Game Changer",
-      "date": "May 29",
-      "duration": "16 min",
-      "is_today": false
+      "title": "AI Moves: Anthropic's IPO and Nvidia's Model",
+      "date": "Today",
+      "duration": "14 min",
+      "is_today": true
     }
   ]
 }
