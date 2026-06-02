@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-06-01T22:19:14.452486+00:00",
-  "date": "2026-06-01",
+  "fetched_at": "2026-06-02T22:04:24.708900+00:00",
+  "date": "2026-06-02",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Inside an Ebola Ward, and a Roadblock for Trump\u2019s $1.8 Billion Fund",
+      "title": "Extreme Water Shortages in the West, and Hegseth\u2019s Pentagon Purge",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Inside Trump\u2019s Mad Dash to Renovate Washington",
+      "title": "How Elon Musk Engineered the World\u2019s Biggest I.P.O.",
       "date": "Today",
-      "duration": "37 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "The AI Token Shortage Begins [AI Monthly Recap]",
-      "date": "Today",
+      "date": "Jun 1",
       "duration": "29 min",
-      "is_today": true
-    },
-    {
-      "name": "AI + a16z",
-      "title": "Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software",
-      "date": "May 19",
-      "duration": "30 min",
       "is_today": false
     },
     {
-      "name": "Hugging Face",
-      "title": "AI Moves: Anthropic's IPO and Nvidia's Model",
+      "name": "AI + a16z",
+      "title": "AI Agents and the Fight for Customer Data",
       "date": "Today",
-      "duration": "14 min",
+      "duration": "51 min",
+      "is_today": true
+    },
+    {
+      "name": "Hugging Face",
+      "title": "Alphabet's Ambitious AI Funding Goals Revealed",
+      "date": "Today",
+      "duration": "12 min",
       "is_today": true
     }
   ]
