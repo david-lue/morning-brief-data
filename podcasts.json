@@ -1,41 +1,41 @@
 {
-  "fetched_at": "2026-06-02T22:04:24.708900+00:00",
-  "date": "2026-06-02",
+  "fetched_at": "2026-06-03T22:06:30.380490+00:00",
+  "date": "2026-06-03",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Extreme Water Shortages in the West, and Hegseth\u2019s Pentagon Purge",
+      "title": "Trump\u2019s Controversial Pick to Oversee U.S. Intelligence, and a Surge in Preventable Diseases",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "How Elon Musk Engineered the World\u2019s Biggest I.P.O.",
+      "title": "Why the Ebola Outbreak Has Been Nearly Impossible to Stop",
       "date": "Today",
       "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The AI Token Shortage Begins [AI Monthly Recap]",
-      "date": "Jun 1",
-      "duration": "29 min",
-      "is_today": false
+      "title": "The Next Wave of Enterprise AI",
+      "date": "Today",
+      "duration": "27 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
       "title": "AI Agents and the Fight for Customer Data",
-      "date": "Today",
+      "date": "Jun 2",
       "duration": "51 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "Hugging Face",
       "title": "Alphabet's Ambitious AI Funding Goals Revealed",
-      "date": "Today",
+      "date": "Jun 2",
       "duration": "12 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
