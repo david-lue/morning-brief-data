@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-06-03T22:06:30.380490+00:00",
-  "date": "2026-06-03",
+  "fetched_at": "2026-06-04T14:08:56.480963+00:00",
+  "date": "2026-06-04",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump\u2019s Controversial Pick to Oversee U.S. Intelligence, and a Surge in Preventable Diseases",
+      "title": "G.O.P. Defectors Break With Trump Over War, and SpaceX Set for Largest I.P.O. Ever",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Why the Ebola Outbreak Has Been Nearly Impossible to Stop",
+      "title": "How Trump Was Persuaded to Regulate A.I.",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "34 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "The Next Wave of Enterprise AI",
-      "date": "Today",
+      "date": "Jun 3",
       "duration": "27 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
