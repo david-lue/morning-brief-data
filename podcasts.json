@@ -1,33 +1,33 @@
 {
-  "fetched_at": "2026-06-04T14:08:56.480963+00:00",
-  "date": "2026-06-04",
+  "fetched_at": "2026-06-05T14:01:52.803097+00:00",
+  "date": "2026-06-05",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "G.O.P. Defectors Break With Trump Over War, and SpaceX Set for Largest I.P.O. Ever",
+      "title": "Inside Trump\u2019s Strategy to Push Out Immigrants, and How Tech Giants Targeted Teens at School",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "14 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "How Trump Was Persuaded to Regulate A.I.",
+      "title": "One Town&apos;s Blueprint for Resegregating America",
       "date": "Today",
       "duration": "34 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Next Wave of Enterprise AI",
-      "date": "Jun 3",
-      "duration": "27 min",
+      "title": "How Companies Are Becoming AI Token Efficient",
+      "date": "Jun 4",
+      "duration": "26 min",
       "is_today": false
     },
     {
       "name": "AI + a16z",
-      "title": "AI Agents and the Fight for Customer Data",
-      "date": "Jun 2",
-      "duration": "51 min",
+      "title": "Building Search for AI Agents with Exa CEO Will Bryk",
+      "date": "Jun 4",
+      "duration": "50 min",
       "is_today": false
     },
     {
