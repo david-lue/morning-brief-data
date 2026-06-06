@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-05T14:01:52.803097+00:00",
-  "date": "2026-06-05",
+  "fetched_at": "2026-06-06T12:13:45.639407+00:00",
+  "date": "2026-06-06",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Inside Trump\u2019s Strategy to Push Out Immigrants, and How Tech Giants Targeted Teens at School",
-      "date": "Today",
+      "date": "Jun 5",
       "duration": "14 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "One Town&apos;s Blueprint for Resegregating America",
+      "title": "Everything You Need to Know About the World Cup",
       "date": "Today",
-      "duration": "34 min",
+      "duration": "37 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How Companies Are Becoming AI Token Efficient",
-      "date": "Jun 4",
-      "duration": "26 min",
+      "title": "What OpenAI and Anthropic Think Happens Next With AI",
+      "date": "Jun 5",
+      "duration": "31 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Alphabet's Ambitious AI Funding Goals Revealed",
-      "date": "Jun 2",
-      "duration": "12 min",
+      "title": "IPO Prospects Amid S&amp;P 500 Restrictions",
+      "date": "Jun 5",
+      "duration": "13 min",
       "is_today": false
     }
   ]
