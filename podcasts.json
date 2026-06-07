@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-06T12:13:45.639407+00:00",
-  "date": "2026-06-06",
+  "fetched_at": "2026-06-07T12:48:18.303633+00:00",
+  "date": "2026-06-07",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,16 +11,16 @@
     },
     {
       "name": "The Daily",
-      "title": "Everything You Need to Know About the World Cup",
+      "title": "Scott Pelley on His Firing and the \u2018Massacre\u2019 at \u201960 Minutes\u2019",
       "date": "Today",
-      "duration": "37 min",
+      "duration": "64 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "What OpenAI and Anthropic Think Happens Next With AI",
-      "date": "Jun 5",
-      "duration": "31 min",
+      "title": "This Week in AI for Ridiculously Busy People",
+      "date": "Jun 6",
+      "duration": "5 min",
       "is_today": false
     },
     {
