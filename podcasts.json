@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-07T12:48:18.303633+00:00",
-  "date": "2026-06-07",
+  "fetched_at": "2026-06-08T14:51:47.208215+00:00",
+  "date": "2026-06-08",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Inside Trump\u2019s Strategy to Push Out Immigrants, and How Tech Giants Targeted Teens at School",
-      "date": "Jun 5",
-      "duration": "14 min",
-      "is_today": false
+      "title": "Iran and Israel Exchange First Strikes Since Cease-Fire, and Texas Ranchers Sound the Alarm",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Scott Pelley on His Firing and the \u2018Massacre\u2019 at \u201960 Minutes\u2019",
+      "title": "Congressional Republicans Try a New Approach: Telling Trump No",
       "date": "Today",
-      "duration": "64 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "This Week in AI for Ridiculously Busy People",
-      "date": "Jun 6",
-      "duration": "5 min",
+      "title": "10+ Things You Should Build With AI Instead of Sending Files",
+      "date": "Jun 7",
+      "duration": "22 min",
       "is_today": false
     },
     {
