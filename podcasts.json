@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-09T13:47:06.845489+00:00",
-  "date": "2026-06-09",
+  "fetched_at": "2026-06-10T14:28:28.469587+00:00",
+  "date": "2026-06-10",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The Holdup at the Center of the Iran Talks, and Trump\u2019s Baseless New Claims of Voter Fraud",
+      "title": "Stray Drones Are Setting Off Alarms in Europe, and the U.S. Deports a World Cup Referee",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Maine Votes as Graham Platner\u2019s Past Poses New Conundrums",
+      "title": "The Iran War&apos;s Devastating Butterfly Effect",
       "date": "Today",
-      "duration": "38 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How We Use AI Is Changing",
-      "date": "Jun 8",
-      "duration": "26 min",
+      "title": "OpenAI Declares the Next Phase of AI",
+      "date": "Jun 9",
+      "duration": "30 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "IPO Prospects Amid S&amp;P 500 Restrictions",
-      "date": "Jun 5",
-      "duration": "13 min",
+      "title": "Lovable HIts $500M in ARR, Apple Announces AI Siri",
+      "date": "Jun 9",
+      "duration": "21 min",
       "is_today": false
     }
   ]
