@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-11T14:51:50.219331+00:00",
-  "date": "2026-06-11",
+  "fetched_at": "2026-06-12T14:13:56.772119+00:00",
+  "date": "2026-06-12",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump Shrugs Off Surging Inflation, and Why a Groundbreaking Social Media Ban Is Floundering",
+      "title": "What the SpaceX I.P.O. Means for You, and a Giant Act of Vandalism in D.C.",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "15 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Young Economic Populists Reshaping the Left",
+      "title": "1979: How the U.S. and Iran Went From Allies to Enemies",
       "date": "Today",
-      "duration": "37 min",
+      "duration": "50 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Fable 5 Raises the Bar for AI Ambition",
-      "date": "Jun 10",
-      "duration": "39 min",
+      "title": "Why Fable 5 Is the Most Controversial AI Release Ever",
+      "date": "Jun 11",
+      "duration": "30 min",
       "is_today": false
     },
     {
