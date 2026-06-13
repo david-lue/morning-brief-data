@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-12T14:13:56.772119+00:00",
-  "date": "2026-06-12",
+  "fetched_at": "2026-06-13T12:56:30.363706+00:00",
+  "date": "2026-06-13",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "What the SpaceX I.P.O. Means for You, and a Giant Act of Vandalism in D.C.",
-      "date": "Today",
+      "date": "Jun 12",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "1979: How the U.S. and Iran Went From Allies to Enemies",
+      "title": "Seth Rogen Knows the Secret to Marriage \u2014 and Being Rich in Hollywood",
       "date": "Today",
-      "duration": "50 min",
+      "duration": "76 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why Fable 5 Is the Most Controversial AI Release Ever",
-      "date": "Jun 11",
-      "duration": "30 min",
+      "title": "The AI Chart Everyone Is Getting Wrong",
+      "date": "Jun 12",
+      "duration": "33 min",
       "is_today": false
     },
     {
