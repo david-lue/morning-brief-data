@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-16T16:01:56.566721+00:00",
-  "date": "2026-06-16",
+  "fetched_at": "2026-06-17T14:28:18.399084+00:00",
+  "date": "2026-06-17",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A Times Investigation Into Epstein\u2019s Death, and Why Gas Prices Might Stay High",
+      "title": "How Local Police Are Working for ICE, and an Unusual Data Center Dispute",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A Gen Z Revolution at the Movies",
+      "title": "The Battle Over A.I. in the Classroom",
       "date": "Today",
-      "duration": "29 min",
+      "duration": "32 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Fable 5 Crisis Continues",
-      "date": "Jun 15",
-      "duration": "26 min",
+      "title": "Why Only AI Training Can Save the Economy",
+      "date": "Jun 16",
+      "duration": "22 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Lovable HIts $500M in ARR, Apple Announces AI Siri",
-      "date": "Jun 9",
-      "duration": "21 min",
+      "title": "The Future of Meta's Cancelled Manus Acquisition",
+      "date": "Jun 16",
+      "duration": "17 min",
       "is_today": false
     }
   ]
