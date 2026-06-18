@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-17T14:28:18.399084+00:00",
-  "date": "2026-06-17",
+  "fetched_at": "2026-06-18T14:19:23.087607+00:00",
+  "date": "2026-06-18",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "How Local Police Are Working for ICE, and an Unusual Data Center Dispute",
+      "title": "How Iran Could Benefit From Its Deal With the U.S., and an A.I. Arms Race in Schools",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Battle Over A.I. in the Classroom",
+      "title": "The Untold Story of Jeffrey Epstein\u2019s Death",
       "date": "Today",
-      "duration": "32 min",
+      "duration": "41 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why Only AI Training Can Save the Economy",
-      "date": "Jun 16",
-      "duration": "22 min",
+      "title": "A Big Shift in the AI Race",
+      "date": "Jun 17",
+      "duration": "27 min",
       "is_today": false
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "name": "Hugging Face",
-      "title": "The Future of Meta's Cancelled Manus Acquisition",
-      "date": "Jun 16",
+      "title": "Odyssey Valuation and State Farm's Commission Decisions",
+      "date": "Jun 17",
       "duration": "17 min",
       "is_today": false
     }
