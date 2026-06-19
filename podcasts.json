@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-18T14:19:23.087607+00:00",
-  "date": "2026-06-18",
+  "fetched_at": "2026-06-19T14:18:23.860094+00:00",
+  "date": "2026-06-19",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "How Iran Could Benefit From Its Deal With the U.S., and an A.I. Arms Race in Schools",
+      "title": "JD Vance\u2019s Blunt Warning to Israel, and Why Waymo Is Struggling to Go National",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "16 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Untold Story of Jeffrey Epstein\u2019s Death",
+      "title": "Did Iran Come Out on Top in the Peace Deal?",
       "date": "Today",
-      "duration": "41 min",
+      "duration": "33 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "A Big Shift in the AI Race",
-      "date": "Jun 17",
-      "duration": "27 min",
+      "title": "The Models Trying to Fill the Fable Gap",
+      "date": "Jun 18",
+      "duration": "29 min",
       "is_today": false
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Odyssey Valuation and State Farm's Commission Decisions",
-      "date": "Jun 17",
+      "title": "Top MCP's You Should be Using for Claude, ChatGPT and Gemini",
+      "date": "Jun 18",
       "duration": "17 min",
       "is_today": false
     }
