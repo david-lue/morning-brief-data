@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-19T14:18:23.860094+00:00",
-  "date": "2026-06-19",
+  "fetched_at": "2026-06-20T12:58:03.320423+00:00",
+  "date": "2026-06-20",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "JD Vance\u2019s Blunt Warning to Israel, and Why Waymo Is Struggling to Go National",
-      "date": "Today",
+      "date": "Jun 19",
       "duration": "16 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Did Iran Come Out on Top in the Peace Deal?",
+      "title": "Danny McBride Thinks Men Learned All the Wrong Lessons From Movies",
       "date": "Today",
-      "duration": "33 min",
+      "duration": "38 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Models Trying to Fill the Fable Gap",
-      "date": "Jun 18",
-      "duration": "29 min",
+      "title": "Your Company Doesn\u2019t Need an AI Strategy",
+      "date": "Jun 19",
+      "duration": "30 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Top MCP's You Should be Using for Claude, ChatGPT and Gemini",
-      "date": "Jun 18",
-      "duration": "17 min",
+      "title": "Midjourney's Entry into Scanning AI Tech",
+      "date": "Jun 19",
+      "duration": "14 min",
       "is_today": false
     }
   ]
