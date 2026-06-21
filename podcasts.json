@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-20T12:58:03.320423+00:00",
-  "date": "2026-06-20",
+  "fetched_at": "2026-06-21T13:16:25.505018+00:00",
+  "date": "2026-06-21",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,16 +11,16 @@
     },
     {
       "name": "The Daily",
-      "title": "Danny McBride Thinks Men Learned All the Wrong Lessons From Movies",
+      "title": "Can a Bad Man Be a Good Father?",
       "date": "Today",
-      "duration": "38 min",
+      "duration": "47 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Your Company Doesn\u2019t Need an AI Strategy",
-      "date": "Jun 19",
-      "duration": "30 min",
+      "title": "The 5-Minute AI Weekly Recap: Realignment Week",
+      "date": "Jun 20",
+      "duration": "6 min",
       "is_today": false
     },
     {
