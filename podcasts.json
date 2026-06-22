@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-21T13:16:25.505018+00:00",
-  "date": "2026-06-21",
+  "fetched_at": "2026-06-22T15:58:15.225006+00:00",
+  "date": "2026-06-22",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "JD Vance\u2019s Blunt Warning to Israel, and Why Waymo Is Struggling to Go National",
-      "date": "Jun 19",
-      "duration": "16 min",
-      "is_today": false
+      "title": "The Key Players in the U.S.-Iran Talks, and the Deadly Rise of Giant Trucks and S.U.V.s",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Can a Bad Man Be a Good Father?",
+      "title": "R.F.K. Jr.\u2019s Newest Mission: Getting Us Off Antidepressants",
       "date": "Today",
-      "duration": "47 min",
+      "duration": "32 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The 5-Minute AI Weekly Recap: Realignment Week",
-      "date": "Jun 20",
-      "duration": "6 min",
+      "title": "Why Local AI Matters and How to Use It",
+      "date": "Jun 21",
+      "duration": "45 min",
       "is_today": false
     },
     {
