@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-22T15:58:15.225006+00:00",
-  "date": "2026-06-22",
+  "fetched_at": "2026-06-23T13:45:48.967964+00:00",
+  "date": "2026-06-23",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The Key Players in the U.S.-Iran Talks, and the Deadly Rise of Giant Trucks and S.U.V.s",
+      "title": "5 Major Supreme Court Decisions to Watch, and the Rise of Sewage Surveillance",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "R.F.K. Jr.\u2019s Newest Mission: Getting Us Off Antidepressants",
+      "title": "As Trump Purges Immigration Judges, One Speaks Out",
       "date": "Today",
-      "duration": "32 min",
+      "duration": "36 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why Local AI Matters and How to Use It",
-      "date": "Jun 21",
-      "duration": "45 min",
+      "title": "Why AI Users Are Raving About GLM 5.2",
+      "date": "Jun 22",
+      "duration": "29 min",
       "is_today": false
     },
     {
