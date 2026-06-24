@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-23T13:45:48.967964+00:00",
-  "date": "2026-06-23",
+  "fetched_at": "2026-06-24T13:27:04.386327+00:00",
+  "date": "2026-06-24",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "5 Major Supreme Court Decisions to Watch, and the Rise of Sewage Surveillance",
+      "title": "Deadly Heat Wave Grips Europe, and Congress Passes a Landmark Housing Bill",
       "date": "Today",
       "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "As Trump Purges Immigration Judges, One Speaks Out",
+      "title": "How the Iran Deal Is Testing the U.S.-Israel Alliance",
       "date": "Today",
-      "duration": "36 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why AI Users Are Raving About GLM 5.2",
-      "date": "Jun 22",
-      "duration": "29 min",
+      "title": "The Right Way to Deal With AI Data Centers",
+      "date": "Jun 23",
+      "duration": "26 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Midjourney's Entry into Scanning AI Tech",
-      "date": "Jun 19",
-      "duration": "14 min",
+      "title": "SpaceX Signs $6.3B Reflection AI Deal, Nvidia Eliminate Data Center Water",
+      "date": "Jun 23",
+      "duration": "20 min",
       "is_today": false
     }
   ]
