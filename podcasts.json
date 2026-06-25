@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-06-24T13:27:04.386327+00:00",
-  "date": "2026-06-24",
+  "fetched_at": "2026-06-25T13:24:05.750364+00:00",
+  "date": "2026-06-25",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Deadly Heat Wave Grips Europe, and Congress Passes a Landmark Housing Bill",
+      "title": "2 Deadly Earthquakes Hit Venezuela, and Why Chemo Drugs Could Soon Be Rationed",
       "date": "Today",
       "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "How the Iran Deal Is Testing the U.S.-Israel Alliance",
+      "title": "Mayor Mamdani Flexes His Power in the Midterms",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Right Way to Deal With AI Data Centers",
-      "date": "Jun 23",
-      "duration": "26 min",
+      "title": "5 Ways Claude Tag Could Change How You Use AI",
+      "date": "Jun 24",
+      "duration": "27 min",
       "is_today": false
     },
     {
       "name": "AI + a16z",
-      "title": "Ideogram\u2019s Open-Weights Image Model and the Future of AI Design",
-      "date": "Jun 15",
-      "duration": "43 min",
+      "title": "Building Self-Accelerating AI with Mirendil",
+      "date": "Jun 24",
+      "duration": "41 min",
       "is_today": false
     },
     {
       "name": "Hugging Face",
-      "title": "SpaceX Signs $6.3B Reflection AI Deal, Nvidia Eliminate Data Center Water",
-      "date": "Jun 23",
-      "duration": "20 min",
+      "title": "Anthropic ships Claude Tag, OpenAI Unveils It's Own Chip",
+      "date": "Jun 24",
+      "duration": "11 min",
       "is_today": false
     }
   ]
