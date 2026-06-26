@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-25T13:24:05.750364+00:00",
-  "date": "2026-06-25",
+  "fetched_at": "2026-06-26T13:18:50.529919+00:00",
+  "date": "2026-06-26",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "2 Deadly Earthquakes Hit Venezuela, and Why Chemo Drugs Could Soon Be Rationed",
+      "title": "Big Wins for Trump at the Supreme Court, and a $2.5 Billion Cyberattack Whodunit",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "15 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Mayor Mamdani Flexes His Power in the Midterms",
+      "title": "Supreme Court Delivers Big Wins for Trump\u2019s Immigration Agenda",
       "date": "Today",
-      "duration": "29 min",
+      "duration": "26 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "5 Ways Claude Tag Could Change How You Use AI",
-      "date": "Jun 24",
-      "duration": "27 min",
+      "title": "CEO-Led AI Gets 3X the ROI",
+      "date": "Jun 25",
+      "duration": "30 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic ships Claude Tag, OpenAI Unveils It's Own Chip",
-      "date": "Jun 24",
-      "duration": "11 min",
+      "title": "Anthropic Accuses Alibaba of Distillation Attack on Claude",
+      "date": "Jun 25",
+      "duration": "15 min",
       "is_today": false
     }
   ]
