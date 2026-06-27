@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-26T13:18:50.529919+00:00",
-  "date": "2026-06-26",
+  "fetched_at": "2026-06-27T12:15:41.577354+00:00",
+  "date": "2026-06-27",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Big Wins for Trump at the Supreme Court, and a $2.5 Billion Cyberattack Whodunit",
-      "date": "Today",
+      "date": "Jun 26",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Supreme Court Delivers Big Wins for Trump\u2019s Immigration Agenda",
+      "title": "Robby Hoffman Will Always Feel Poor, No Matter How Rich She Gets",
       "date": "Today",
-      "duration": "26 min",
+      "duration": "50 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "CEO-Led AI Gets 3X the ROI",
-      "date": "Jun 25",
-      "duration": "30 min",
+      "title": "Botsitting: The Work Draining AI Gains",
+      "date": "Jun 26",
+      "duration": "25 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic Accuses Alibaba of Distillation Attack on Claude",
-      "date": "Jun 25",
-      "duration": "15 min",
+      "title": "OpenAI ships GPT-5.6 in three tiers, undercuts Claude on price",
+      "date": "Jun 26",
+      "duration": "12 min",
       "is_today": false
     }
   ]
