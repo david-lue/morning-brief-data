@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-27T12:15:41.577354+00:00",
-  "date": "2026-06-27",
+  "fetched_at": "2026-06-28T12:19:33.144630+00:00",
+  "date": "2026-06-28",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Robby Hoffman Will Always Feel Poor, No Matter How Rich She Gets",
+      "title": "The Last 12 Weeks",
       "date": "Today",
-      "duration": "50 min",
+      "duration": "42 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Botsitting: The Work Draining AI Gains",
-      "date": "Jun 26",
-      "duration": "25 min",
-      "is_today": false
+      "title": "The Capability Overhang Playbook",
+      "date": "Today",
+      "duration": "26 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
