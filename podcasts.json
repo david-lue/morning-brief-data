@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-06-28T12:19:33.144630+00:00",
-  "date": "2026-06-28",
+  "fetched_at": "2026-06-29T14:52:00.710668+00:00",
+  "date": "2026-06-29",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Big Wins for Trump at the Supreme Court, and a $2.5 Billion Cyberattack Whodunit",
-      "date": "Jun 26",
-      "duration": "15 min",
-      "is_today": false
+      "title": "A Frantic Search for Survivors in Venezuela, and Fires Scorch Western U.S.",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Last 12 Weeks",
+      "title": "Why Everyone Cares About This World Cup",
       "date": "Today",
-      "duration": "42 min",
+      "duration": "38 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "The Capability Overhang Playbook",
-      "date": "Today",
+      "date": "Jun 28",
       "duration": "26 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
