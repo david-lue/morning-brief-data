@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-29T14:52:00.710668+00:00",
-  "date": "2026-06-29",
+  "fetched_at": "2026-06-30T13:14:40.654736+00:00",
+  "date": "2026-06-30",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A Frantic Search for Survivors in Venezuela, and Fires Scorch Western U.S.",
+      "title": "Supreme Court Expands Trump\u2019s Power, and a Dangerous U.S. Heat Wave Spreads",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Why Everyone Cares About This World Cup",
+      "title": "The Supreme Court Expands Presidential Power. Again.",
       "date": "Today",
-      "duration": "38 min",
+      "duration": "25 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Capability Overhang Playbook",
-      "date": "Jun 28",
-      "duration": "26 min",
+      "title": "Mythos Comes Back But Not for Everyone",
+      "date": "Jun 29",
+      "duration": "33 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "OpenAI ships GPT-5.6 in three tiers, undercuts Claude on price",
-      "date": "Jun 26",
-      "duration": "12 min",
+      "title": "Arena AI hits $100M run-rate in 8 Months",
+      "date": "Jun 29",
+      "duration": "15 min",
       "is_today": false
     }
   ]
