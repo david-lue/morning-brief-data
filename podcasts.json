@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-06-30T13:14:40.654736+00:00",
-  "date": "2026-06-30",
+  "fetched_at": "2026-07-01T13:39:36.006500+00:00",
+  "date": "2026-07-01",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Supreme Court Expands Trump\u2019s Power, and a Dangerous U.S. Heat Wave Spreads",
+      "title": "The Supreme Court\u2019s Momentous Term, and How Trump Has Made at Least $2.2 Billion in Office",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Supreme Court Expands Presidential Power. Again.",
+      "title": "Why Americans Will Get Less Help Paying for College",
       "date": "Today",
-      "duration": "25 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Mythos Comes Back But Not for Everyone",
-      "date": "Jun 29",
-      "duration": "33 min",
+      "title": "How Big Is the AI Economy?",
+      "date": "Jun 30",
+      "duration": "28 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Arena AI hits $100M run-rate in 8 Months",
-      "date": "Jun 29",
-      "duration": "15 min",
+      "title": "Anthropic launches Claude Science and a new model",
+      "date": "Jun 30",
+      "duration": "17 min",
       "is_today": false
     }
   ]
