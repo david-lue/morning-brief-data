@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-01T13:39:36.006500+00:00",
-  "date": "2026-07-01",
+  "fetched_at": "2026-07-02T13:04:12.037985+00:00",
+  "date": "2026-07-02",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The Supreme Court\u2019s Momentous Term, and How Trump Has Made at Least $2.2 Billion in Office",
+      "title": "A Quiet Surge in ICE Arrests, and Trump\u2019s First Flight on Plane Given by Qatar",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Why Americans Will Get Less Help Paying for College",
+      "title": "The Fallout of Massive Earthquakes for Venezuela \u2014 and the U.S.",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "41 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How Big Is the AI Economy?",
-      "date": "Jun 30",
-      "duration": "28 min",
+      "title": "Fable is Back: Here's What You Should Try First",
+      "date": "Jul 1",
+      "duration": "30 min",
       "is_today": false
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic launches Claude Science and a new model",
-      "date": "Jun 30",
+      "title": "Anthropic's Fable 5 is Back! SpaceX Builds AI Device",
+      "date": "Jul 1",
       "duration": "17 min",
       "is_today": false
     }
