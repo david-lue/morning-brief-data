@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-02T13:04:12.037985+00:00",
-  "date": "2026-07-02",
+  "fetched_at": "2026-07-03T13:05:25.328731+00:00",
+  "date": "2026-07-03",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "A Quiet Surge in ICE Arrests, and Trump\u2019s First Flight on Plane Given by Qatar",
-      "date": "Today",
+      "date": "Jul 2",
       "duration": "11 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "The Fallout of Massive Earthquakes for Venezuela \u2014 and the U.S.",
+      "title": "250 Years Later, Why We\u2019re Still Fighting About Our Founding",
       "date": "Today",
-      "duration": "41 min",
+      "duration": "36 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Fable is Back: Here's What You Should Try First",
-      "date": "Jul 1",
-      "duration": "30 min",
+      "title": "AI Companies Are Hiring More",
+      "date": "Jul 2",
+      "duration": "28 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic's Fable 5 is Back! SpaceX Builds AI Device",
-      "date": "Jul 1",
-      "duration": "17 min",
+      "title": "OpenAI Offers USA 5% Equity, Anthropic and Samsung Plan Chip",
+      "date": "Jul 2",
+      "duration": "13 min",
       "is_today": false
     }
   ]
