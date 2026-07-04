@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-03T13:05:25.328731+00:00",
-  "date": "2026-07-03",
+  "fetched_at": "2026-07-04T12:14:30.364012+00:00",
+  "date": "2026-07-04",
   "episodes": [
     {
       "name": "The Headlines",
@@ -12,16 +12,16 @@
     {
       "name": "The Daily",
       "title": "250 Years Later, Why We\u2019re Still Fighting About Our Founding",
-      "date": "Today",
+      "date": "Jul 3",
       "duration": "36 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Companies Are Hiring More",
-      "date": "Jul 2",
-      "duration": "28 min",
-      "is_today": false
+      "title": "The Big Ways AI Just Changed",
+      "date": "Today",
+      "duration": "22 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
