@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-04T12:14:30.364012+00:00",
-  "date": "2026-07-04",
+  "fetched_at": "2026-07-05T12:22:50.378357+00:00",
+  "date": "2026-07-05",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "250 Years Later, Why We\u2019re Still Fighting About Our Founding",
-      "date": "Jul 3",
-      "duration": "36 min",
-      "is_today": false
+      "title": "The Most American Episode of The Daily, Ever.",
+      "date": "Today",
+      "duration": "43 min",
+      "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "The Big Ways AI Just Changed",
-      "date": "Today",
+      "date": "Jul 4",
       "duration": "22 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
