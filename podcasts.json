@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-05T12:22:50.378357+00:00",
-  "date": "2026-07-05",
+  "fetched_at": "2026-07-06T14:34:13.195915+00:00",
+  "date": "2026-07-06",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A Quiet Surge in ICE Arrests, and Trump\u2019s First Flight on Plane Given by Qatar",
-      "date": "Jul 2",
-      "duration": "11 min",
-      "is_today": false
+      "title": "Huge Crowds Gather for Ayatollah\u2019s Funeral, and China Tests Long-Range Ballistic Missile",
+      "date": "Today",
+      "duration": "8 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Most American Episode of The Daily, Ever.",
+      "title": "The Landmark Housing Bill That Trump Refuses to Sign",
       "date": "Today",
-      "duration": "43 min",
+      "duration": "24 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Big Ways AI Just Changed",
-      "date": "Jul 4",
-      "duration": "22 min",
+      "title": "The Job Positions of the AI Future",
+      "date": "Jul 5",
+      "duration": "27 min",
       "is_today": false
     },
     {
