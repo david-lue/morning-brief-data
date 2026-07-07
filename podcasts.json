@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-06T14:34:13.195915+00:00",
-  "date": "2026-07-06",
+  "fetched_at": "2026-07-07T13:24:50.180305+00:00",
+  "date": "2026-07-07",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Huge Crowds Gather for Ayatollah\u2019s Funeral, and China Tests Long-Range Ballistic Missile",
+      "title": "What to Watch at the NATO Summit, and Platner\u2019s Allies Rescind Endorsements",
       "date": "Today",
-      "duration": "8 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Landmark Housing Bill That Trump Refuses to Sign",
+      "title": "The Onion\u2019s Latest Joke: Taking Over Infowars",
       "date": "Today",
-      "duration": "24 min",
+      "duration": "22 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Job Positions of the AI Future",
-      "date": "Jul 5",
-      "duration": "27 min",
+      "title": "AI Is Making One-Person Million-Dollar Companies More Common",
+      "date": "Jul 6",
+      "duration": "25 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "OpenAI Offers USA 5% Equity, Anthropic and Samsung Plan Chip",
-      "date": "Jul 2",
+      "title": "Mistral's $3.5B Raise, Samsung Profit up 18x from AI Memory",
+      "date": "Today",
       "duration": "13 min",
-      "is_today": false
+      "is_today": true
     }
   ]
 }
