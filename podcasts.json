@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-07T13:24:50.180305+00:00",
-  "date": "2026-07-07",
+  "fetched_at": "2026-07-08T12:48:54.715095+00:00",
+  "date": "2026-07-08",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "What to Watch at the NATO Summit, and Platner\u2019s Allies Rescind Endorsements",
+      "title": "Oil Prices Jump as U.S. and Iran Resume Strikes, and Big Tobacco Makes a Big New Bet",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Onion\u2019s Latest Joke: Taking Over Infowars",
+      "title": "The Implosion of Graham Platner",
       "date": "Today",
-      "duration": "22 min",
+      "duration": "35 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Is Making One-Person Million-Dollar Companies More Common",
-      "date": "Jul 6",
-      "duration": "25 min",
+      "title": "Anthropic Can Now Read Claude\u2019s Mind",
+      "date": "Jul 7",
+      "duration": "29 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Mistral's $3.5B Raise, Samsung Profit up 18x from AI Memory",
-      "date": "Today",
-      "duration": "13 min",
-      "is_today": true
+      "title": "Claude's Advances in Mobile Co-Working",
+      "date": "Jul 7",
+      "duration": "12 min",
+      "is_today": false
     }
   ]
 }
