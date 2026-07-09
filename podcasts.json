@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-08T12:48:54.715095+00:00",
-  "date": "2026-07-08",
+  "fetched_at": "2026-07-09T13:52:29.425452+00:00",
+  "date": "2026-07-09",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Oil Prices Jump as U.S. and Iran Resume Strikes, and Big Tobacco Makes a Big New Bet",
+      "title": "How the Platner Campaign Imploded, and New Questions About Trump\u2019s Qatari-Donated Jet",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Implosion of Graham Platner",
+      "title": "The Unprecedented Personal Profits of Trump\u2019s Presidency",
       "date": "Today",
-      "duration": "35 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Anthropic Can Now Read Claude\u2019s Mind",
-      "date": "Jul 7",
-      "duration": "29 min",
+      "title": "AI Costs Are Surging and the Cheap Model Fix Might Not Last",
+      "date": "Jul 8",
+      "duration": "27 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Claude's Advances in Mobile Co-Working",
-      "date": "Jul 7",
-      "duration": "12 min",
+      "title": "OpenAI's Interactive Model: Conversation and Comprehension",
+      "date": "Jul 8",
+      "duration": "13 min",
       "is_today": false
     }
   ]
