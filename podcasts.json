@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-09T13:52:29.425452+00:00",
-  "date": "2026-07-09",
+  "fetched_at": "2026-07-10T13:17:58.707393+00:00",
+  "date": "2026-07-10",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "How the Platner Campaign Imploded, and New Questions About Trump\u2019s Qatari-Donated Jet",
+      "title": "How Trump Is Trying to Tip the Scales for the Midterms, and Why Grocery Stores Are Scrambling",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "13 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Unprecedented Personal Profits of Trump\u2019s Presidency",
+      "title": "Cuba Under Siege",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "47 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Costs Are Surging and the Cheap Model Fix Might Not Last",
-      "date": "Jul 8",
-      "duration": "27 min",
+      "title": "How the 4 New AI Models Change How You Work",
+      "date": "Jul 9",
+      "duration": "35 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "OpenAI's Interactive Model: Conversation and Comprehension",
-      "date": "Jul 8",
-      "duration": "13 min",
-      "is_today": false
+      "title": "Embracing Change: Microsoft\u2019s AI Billions",
+      "date": "Today",
+      "duration": "15 min",
+      "is_today": true
     }
   ]
 }
