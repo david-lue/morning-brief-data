@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-10T13:17:58.707393+00:00",
-  "date": "2026-07-10",
+  "fetched_at": "2026-07-11T12:00:55.237895+00:00",
+  "date": "2026-07-11",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "How Trump Is Trying to Tip the Scales for the Midterms, and Why Grocery Stores Are Scrambling",
-      "date": "Today",
+      "date": "Jul 10",
       "duration": "13 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Cuba Under Siege",
+      "title": "Mick Jagger Isn&apos;t Sure He Ever Lets the World See the Real Him",
       "date": "Today",
-      "duration": "47 min",
+      "duration": "63 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How the 4 New AI Models Change How You Work",
-      "date": "Jul 9",
-      "duration": "35 min",
+      "title": "ChatGPT Just Became a Work Agent",
+      "date": "Jul 10",
+      "duration": "29 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Embracing Change: Microsoft\u2019s AI Billions",
-      "date": "Today",
-      "duration": "15 min",
-      "is_today": true
+      "title": "The End of Atlas: Better Solutions Ahead?",
+      "date": "Jul 10",
+      "duration": "12 min",
+      "is_today": false
     }
   ]
 }
