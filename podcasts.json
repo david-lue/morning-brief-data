@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-11T12:00:55.237895+00:00",
-  "date": "2026-07-11",
+  "fetched_at": "2026-07-12T12:05:51.986736+00:00",
+  "date": "2026-07-12",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Mick Jagger Isn&apos;t Sure He Ever Lets the World See the Real Him",
+      "title": "What\u2019s Epic About the \u2018Odyssey\u2019? Everything.",
       "date": "Today",
-      "duration": "63 min",
+      "duration": "51 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "ChatGPT Just Became a Work Agent",
-      "date": "Jul 10",
-      "duration": "29 min",
-      "is_today": false
+      "title": "How to Help People Thrive with AI",
+      "date": "Today",
+      "duration": "23 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
