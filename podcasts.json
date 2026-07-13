@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-07-12T12:05:51.986736+00:00",
-  "date": "2026-07-12",
+  "fetched_at": "2026-07-13T13:31:38.921892+00:00",
+  "date": "2026-07-13",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "How Trump Is Trying to Tip the Scales for the Midterms, and Why Grocery Stores Are Scrambling",
-      "date": "Jul 10",
-      "duration": "13 min",
-      "is_today": false
+      "title": "Lindsey Graham\u2019s Unexpected Death, and How Marco Rubio Is Running Venezuela",
+      "date": "Today",
+      "duration": "11 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "What\u2019s Epic About the \u2018Odyssey\u2019? Everything.",
+      "title": "Why Are Grocery Store Prices So High",
       "date": "Today",
-      "duration": "51 min",
+      "duration": "38 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "How to Help People Thrive with AI",
-      "date": "Today",
+      "date": "Jul 12",
       "duration": "23 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
