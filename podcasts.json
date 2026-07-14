@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-13T13:31:38.921892+00:00",
-  "date": "2026-07-13",
+  "fetched_at": "2026-07-14T12:20:46.496617+00:00",
+  "date": "2026-07-14",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Lindsey Graham\u2019s Unexpected Death, and How Marco Rubio Is Running Venezuela",
+      "title": "Trump Says U.S. Will \u2018Take Over\u2019 Strait of Hormuz, and How Russia Made Japan a Den of Spies",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Why Are Grocery Store Prices So High",
+      "title": "Why the Cease-Fire With Iran Keeps Crumbling",
       "date": "Today",
-      "duration": "38 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How to Help People Thrive with AI",
-      "date": "Jul 12",
-      "duration": "23 min",
+      "title": "How the Escalating AI Wars Benefit You",
+      "date": "Jul 13",
+      "duration": "31 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "The End of Atlas: Better Solutions Ahead?",
-      "date": "Jul 10",
-      "duration": "12 min",
+      "title": "Claude Localization: Indian Pricing Update",
+      "date": "Jul 13",
+      "duration": "16 min",
       "is_today": false
     }
   ]
