@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-15T12:23:02.995650+00:00",
-  "date": "2026-07-15",
+  "fetched_at": "2026-07-16T12:45:48.585137+00:00",
+  "date": "2026-07-16",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump Flip-Flops on Strait of Hormuz Plan, and U.S. Cyclospora Outbreak Spreads",
+      "title": "Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "From Trump\u2019s Attorney to Attorney General: The Rise of Todd Blanche",
+      "title": "ICE Ramps Back Up, With Deadly Results",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "25 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Optimism vs. AI Pessimism",
-      "date": "Jul 14",
-      "duration": "23 min",
+      "title": "5 AI Engineering Trends for Non-Engineers",
+      "date": "Jul 15",
+      "duration": "28 min",
       "is_today": false
     },
     {
