@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-16T12:45:48.585137+00:00",
-  "date": "2026-07-16",
+  "fetched_at": "2026-07-17T12:18:52.060165+00:00",
+  "date": "2026-07-17",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel",
+      "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump\u2019s Speech on Election Security",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "17 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "ICE Ramps Back Up, With Deadly Results",
+      "title": "The President, His Plane and the Press",
       "date": "Today",
-      "duration": "25 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "5 AI Engineering Trends for Non-Engineers",
-      "date": "Jul 15",
-      "duration": "28 min",
+      "title": "The New Enterprise Battle Over Who Owns the Model",
+      "date": "Jul 16",
+      "duration": "29 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Claude Localization: Indian Pricing Update",
-      "date": "Jul 13",
+      "title": "Thinking Machines's New AI Model Launch",
+      "date": "Today",
       "duration": "16 min",
-      "is_today": false
+      "is_today": true
     }
   ]
 }
