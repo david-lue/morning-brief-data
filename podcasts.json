@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-17T12:18:52.060165+00:00",
-  "date": "2026-07-17",
+  "fetched_at": "2026-07-18T12:01:29.800968+00:00",
+  "date": "2026-07-18",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump\u2019s Speech on Election Security",
-      "date": "Today",
+      "date": "Jul 17",
       "duration": "17 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "The President, His Plane and the Press",
+      "title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
       "date": "Today",
-      "duration": "29 min",
+      "duration": "65 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The New Enterprise Battle Over Who Owns the Model",
-      "date": "Jul 16",
-      "duration": "29 min",
+      "title": "Is Kimi K3 Really Fable Class?",
+      "date": "Jul 17",
+      "duration": "28 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Thinking Machines's New AI Model Launch",
+      "title": "Kimi K3's Dominance in the AI Sector",
       "date": "Today",
-      "duration": "16 min",
+      "duration": "15 min",
       "is_today": true
     }
   ]
