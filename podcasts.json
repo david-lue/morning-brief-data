@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-18T12:01:29.800968+00:00",
-  "date": "2026-07-18",
+  "fetched_at": "2026-07-19T12:04:39.723399+00:00",
+  "date": "2026-07-19",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
+      "title": "The World Cup Final Is Here",
       "date": "Today",
-      "duration": "65 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Is Kimi K3 Really Fable Class?",
-      "date": "Jul 17",
-      "duration": "28 min",
-      "is_today": false
+      "title": "The Self-Driving Company",
+      "date": "Today",
+      "duration": "26 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "Kimi K3's Dominance in the AI Sector",
-      "date": "Today",
+      "date": "Jul 18",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
