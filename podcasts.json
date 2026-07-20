@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-07-19T12:04:39.723399+00:00",
-  "date": "2026-07-19",
+  "fetched_at": "2026-07-20T13:14:57.872832+00:00",
+  "date": "2026-07-20",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump\u2019s Speech on Election Security",
-      "date": "Jul 17",
-      "duration": "17 min",
-      "is_today": false
+      "title": "U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble",
+      "date": "Today",
+      "duration": "11 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The World Cup Final Is Here",
+      "title": "More Trump Tariffs Are Coming",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "40 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "The Self-Driving Company",
-      "date": "Today",
+      "date": "Jul 19",
       "duration": "26 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
