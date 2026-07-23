@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-22T12:44:04.957193+00:00",
-  "date": "2026-07-22",
+  "fetched_at": "2026-07-23T12:46:25.725623+00:00",
+  "date": "2026-07-23",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump Reaches Contentious New Nuclear Deal, and A.I. Models Go Rogue",
+      "title": "U.S. Employers Forced to Fire Thousands of Immigrants, and a Showdown over Peptides",
       "date": "Today",
-      "duration": "8 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Trump\u2019s Clashing Goals: More Housing, Fewer Immigrants",
+      "title": "Why Is the U.S. Building the Saudi Nuclear Program While Destroying Iran\u2019s?",
       "date": "Today",
-      "duration": "36 min",
+      "duration": "25 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Fight Over Which AI Models You Can Use",
-      "date": "Jul 21",
-      "duration": "30 min",
+      "title": "Wait... Just How Good IS GPT-6?",
+      "date": "Jul 22",
+      "duration": "33 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "AI Now Composes Over Half of Deezer\u2019s Music",
-      "date": "Jul 21",
-      "duration": "11 min",
+      "title": "AI Developments: Anthropic's Robotics Path",
+      "date": "Jul 22",
+      "duration": "12 min",
       "is_today": false
     }
   ]
