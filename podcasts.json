@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-23T12:46:25.725623+00:00",
-  "date": "2026-07-23",
+  "fetched_at": "2026-07-24T12:41:36.320517+00:00",
+  "date": "2026-07-24",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "U.S. Employers Forced to Fire Thousands of Immigrants, and a Showdown over Peptides",
+      "title": "The Cost of Trump\u2019s New Tariffs, and the $100 Million Popcorn Bucket Market",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "15 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Why Is the U.S. Building the Saudi Nuclear Program While Destroying Iran\u2019s?",
+      "title": "Could \u2018Trump Accounts\u2019 Actually Close the Wealth Gap?",
       "date": "Today",
-      "duration": "25 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Wait... Just How Good IS GPT-6?",
-      "date": "Jul 22",
-      "duration": "33 min",
+      "title": "A Field Guide to AI Market Freakouts",
+      "date": "Jul 23",
+      "duration": "25 min",
       "is_today": false
     },
     {
