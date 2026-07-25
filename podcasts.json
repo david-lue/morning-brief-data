@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-24T12:41:36.320517+00:00",
-  "date": "2026-07-24",
+  "fetched_at": "2026-07-25T12:07:43.500119+00:00",
+  "date": "2026-07-25",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "The Cost of Trump\u2019s New Tariffs, and the $100 Million Popcorn Bucket Market",
-      "date": "Today",
+      "date": "Jul 24",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Could \u2018Trump Accounts\u2019 Actually Close the Wealth Gap?",
+      "title": "Karl-Anthony Towns Knows the Knicks&apos; Win Was Bigger Than Basketball",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "39 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "A Field Guide to AI Market Freakouts",
-      "date": "Jul 23",
-      "duration": "25 min",
+      "title": "Why AI Hasn\u2019t Increased Unemployment, According to Anthropic",
+      "date": "Jul 24",
+      "duration": "36 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "AI Developments: Anthropic's Robotics Path",
-      "date": "Jul 22",
-      "duration": "12 min",
+      "title": "Embracing Opus 5 and Voice Technology",
+      "date": "Jul 24",
+      "duration": "20 min",
       "is_today": false
     }
   ]
