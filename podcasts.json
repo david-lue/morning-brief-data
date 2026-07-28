@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-27T13:43:23.786678+00:00",
-  "date": "2026-07-27",
+  "fetched_at": "2026-07-28T12:59:46.241729+00:00",
+  "date": "2026-07-28",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "U.S. Pauses Iran Strikes Amid Growing Risks, and Measles Cases Hit a New Record",
+      "title": "Democratic Party Faces Debt and Disarray, and Wildfires Force Mass Evacuations in Europe",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "What A.I. Is Actually Doing to the Economy",
+      "title": "The Iranians Who Want More War",
       "date": "Today",
-      "duration": "34 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How to Get the Most from AI This Summer",
-      "date": "Jul 26",
-      "duration": "21 min",
+      "title": "Where Claude Opus 5 Fits in Your Model Rotation",
+      "date": "Jul 27",
+      "duration": "33 min",
       "is_today": false
     },
     {
