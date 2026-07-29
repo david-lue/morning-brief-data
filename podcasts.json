@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-28T12:59:46.241729+00:00",
-  "date": "2026-07-28",
+  "fetched_at": "2026-07-29T13:05:48.520139+00:00",
+  "date": "2026-07-29",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Democratic Party Faces Debt and Disarray, and Wildfires Force Mass Evacuations in Europe",
+      "title": "ICE Arrests Surge at Airports, and Fauci\u2019s Private Diary Faces Scrutiny",
       "date": "Today",
       "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Iranians Who Want More War",
+      "title": "Israel, AIPAC and Difficult Questions for Democrats",
       "date": "Today",
-      "duration": "29 min",
+      "duration": "39 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Where Claude Opus 5 Fits in Your Model Rotation",
-      "date": "Jul 27",
-      "duration": "33 min",
+      "title": "Big Tech Unites for Open Source AI\u2014and Against Anthropic",
+      "date": "Jul 28",
+      "duration": "31 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Embracing Opus 5 and Voice Technology",
-      "date": "Jul 24",
-      "duration": "20 min",
+      "title": "NVIDIA's Hug with Super Safe Intelligence",
+      "date": "Jul 28",
+      "duration": "11 min",
       "is_today": false
     }
   ]
