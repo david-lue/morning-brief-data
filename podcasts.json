@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-29T13:05:48.520139+00:00",
-  "date": "2026-07-29",
+  "fetched_at": "2026-07-30T12:51:25.733740+00:00",
+  "date": "2026-07-30",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "ICE Arrests Surge at Airports, and Fauci\u2019s Private Diary Faces Scrutiny",
+      "title": "How the War With Iran Is Widening, and U.S. Hospitals See a Surge of Uninsured Patients",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Israel, AIPAC and Difficult Questions for Democrats",
+      "title": "Europe Is Burning",
       "date": "Today",
-      "duration": "39 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Big Tech Unites for Open Source AI\u2014and Against Anthropic",
-      "date": "Jul 28",
-      "duration": "31 min",
+      "title": "The AI Industry Asks Government to Slow It Down",
+      "date": "Jul 29",
+      "duration": "30 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "NVIDIA's Hug with Super Safe Intelligence",
-      "date": "Jul 28",
-      "duration": "11 min",
+      "title": "Emotionally Intelligent AI in Bug Hunting",
+      "date": "Jul 29",
+      "duration": "18 min",
       "is_today": false
     }
   ]
