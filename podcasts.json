@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-30T12:51:25.733740+00:00",
-  "date": "2026-07-30",
+  "fetched_at": "2026-07-31T13:03:56.032225+00:00",
+  "date": "2026-07-31",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "How the War With Iran Is Widening, and U.S. Hospitals See a Surge of Uninsured Patients",
+      "title": "A Cyberattack on U.S. Water Systems, and the Growing Threat of Falling Space Junk",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "14 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Europe Is Burning",
+      "title": "The Fight Tearing Apart Silicon Valley",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The AI Industry Asks Government to Slow It Down",
-      "date": "Jul 29",
-      "duration": "30 min",
+      "title": "6 Questions Every Enterprise Has to Answer About AI",
+      "date": "Jul 30",
+      "duration": "29 min",
       "is_today": false
     },
     {
