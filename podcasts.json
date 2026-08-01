@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-07-31T13:03:56.032225+00:00",
-  "date": "2026-07-31",
+  "fetched_at": "2026-08-01T12:09:23.594649+00:00",
+  "date": "2026-08-01",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "A Cyberattack on U.S. Water Systems, and the Growing Threat of Falling Space Junk",
-      "date": "Today",
+      "date": "Jul 31",
       "duration": "14 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
       "title": "The Fight Tearing Apart Silicon Valley",
-      "date": "Today",
+      "date": "Jul 31",
       "duration": "27 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI Daily Brief",
-      "title": "6 Questions Every Enterprise Has to Answer About AI",
-      "date": "Jul 30",
-      "duration": "29 min",
+      "title": "What a $30B Hedge Fund Implosion Really Means for AI",
+      "date": "Jul 31",
+      "duration": "31 min",
       "is_today": false
     },
     {
