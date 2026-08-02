@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-01T12:09:23.594649+00:00",
-  "date": "2026-08-01",
+  "fetched_at": "2026-08-02T12:11:28.747088+00:00",
+  "date": "2026-08-02",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,10 +11,10 @@
     },
     {
       "name": "The Daily",
-      "title": "The Fight Tearing Apart Silicon Valley",
-      "date": "Jul 31",
-      "duration": "27 min",
-      "is_today": false
+      "title": "After Losing Her Limbs, Our Cooking Columnist Returns to the Kitchen",
+      "date": "Today",
+      "duration": "31 min",
+      "is_today": true
     },
     {
       "name": "AI Daily Brief",
