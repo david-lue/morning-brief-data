@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-02T12:11:28.747088+00:00",
-  "date": "2026-08-02",
+  "fetched_at": "2026-08-03T13:46:51.972356+00:00",
+  "date": "2026-08-03",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A Cyberattack on U.S. Water Systems, and the Growing Threat of Falling Space Junk",
-      "date": "Jul 31",
-      "duration": "14 min",
-      "is_today": false
+      "title": "New Limits on Trump\u2019s I.R.S. Deal, and Prosecutors Say Reflecting Pool Work Was \u2018Botched\u2019",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "After Losing Her Limbs, Our Cooking Columnist Returns to the Kitchen",
+      "title": "The Tangled Tale of the Tate Brothers and the Trumps",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "40 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "What a $30B Hedge Fund Implosion Really Means for AI",
-      "date": "Jul 31",
-      "duration": "31 min",
+      "title": "Everything You Need to Know About AI Tokens",
+      "date": "Aug 2",
+      "duration": "50 min",
       "is_today": false
     },
     {
