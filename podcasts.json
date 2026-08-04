@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-03T13:46:51.972356+00:00",
-  "date": "2026-08-03",
+  "fetched_at": "2026-08-04T13:06:46.127016+00:00",
+  "date": "2026-08-04",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "New Limits on Trump\u2019s I.R.S. Deal, and Prosecutors Say Reflecting Pool Work Was \u2018Botched\u2019",
+      "title": "The New Deal That Could Lock in Iran\u2019s Control of the Strait, and the $7 Billion Trump\u2019s Not Spending",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Tangled Tale of the Tate Brothers and the Trumps",
+      "title": "Will Michigan Rewrite the Rules of Democratic Politics?",
       "date": "Today",
-      "duration": "40 min",
+      "duration": "41 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Everything You Need to Know About AI Tokens",
-      "date": "Aug 2",
-      "duration": "50 min",
+      "title": "What Happens When AI Breakthroughs Outrun Human Understanding",
+      "date": "Aug 3",
+      "duration": "29 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Emotionally Intelligent AI in Bug Hunting",
-      "date": "Jul 29",
-      "duration": "18 min",
+      "title": "Hugging Face Views on OpenAI's Retreat",
+      "date": "Aug 3",
+      "duration": "16 min",
       "is_today": false
     }
   ]
