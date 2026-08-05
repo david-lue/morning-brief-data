@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-04T13:06:46.127016+00:00",
-  "date": "2026-08-04",
+  "fetched_at": "2026-08-05T13:00:15.335063+00:00",
+  "date": "2026-08-05",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The New Deal That Could Lock in Iran\u2019s Control of the Strait, and the $7 Billion Trump\u2019s Not Spending",
+      "title": "A Growing Data Center Pollution Threat, and the Last of the Jan. 6 Cases",
       "date": "Today",
       "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Will Michigan Rewrite the Rules of Democratic Politics?",
+      "title": "Arizona\u2019s Food Stamp Crisis Is Coming for the Rest of the U.S.",
       "date": "Today",
-      "duration": "41 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "What Happens When AI Breakthroughs Outrun Human Understanding",
-      "date": "Aug 3",
-      "duration": "29 min",
+      "title": "Why AI Washing Won\u2019t Work Much Longer",
+      "date": "Aug 4",
+      "duration": "25 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Hugging Face Views on OpenAI's Retreat",
-      "date": "Aug 3",
-      "duration": "16 min",
+      "title": "Anthropic's $10 Billion Cloud Deal, Elon Musk on AI at Tesla",
+      "date": "Aug 4",
+      "duration": "14 min",
       "is_today": false
     }
   ]
