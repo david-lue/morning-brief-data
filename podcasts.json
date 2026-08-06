@@ -1,39 +1,39 @@
 {
-  "fetched_at": "2026-08-05T13:00:15.335063+00:00",
-  "date": "2026-08-05",
+  "fetched_at": "2026-08-06T13:01:36.321757+00:00",
+  "date": "2026-08-06",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A Growing Data Center Pollution Threat, and the Last of the Jan. 6 Cases",
+      "title": "A New Plan for Closer U.S.-Israel Military Cooperation, and the First mRNA Flu Vaccine",
       "date": "Today",
       "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Arizona\u2019s Food Stamp Crisis Is Coming for the Rest of the U.S.",
+      "title": "The Cyclospora Mystery: How Human Poop Got on So Much Lettuce",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why AI Washing Won\u2019t Work Much Longer",
-      "date": "Aug 4",
-      "duration": "25 min",
+      "title": "Why the Data Center Fight Has Little to Do With AI",
+      "date": "Aug 5",
+      "duration": "36 min",
       "is_today": false
     },
     {
       "name": "AI + a16z",
-      "title": "Building Self-Accelerating AI with Mirendil",
-      "date": "Jun 24",
-      "duration": "41 min",
-      "is_today": false
+      "title": "Inside vLLM: The Engine Powering Open-Source AI",
+      "date": "Today",
+      "duration": "47 min",
+      "is_today": true
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic's $10 Billion Cloud Deal, Elon Musk on AI at Tesla",
-      "date": "Aug 4",
+      "title": "Collaborative AI: AMD and Anthropic Innovations",
+      "date": "Aug 5",
       "duration": "14 min",
       "is_today": false
     }
