@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-08-06T13:01:36.321757+00:00",
-  "date": "2026-08-06",
+  "fetched_at": "2026-08-07T11:53:25.710467+00:00",
+  "date": "2026-08-07",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A New Plan for Closer U.S.-Israel Military Cooperation, and the First mRNA Flu Vaccine",
+      "title": "Trump Targets Birthright Citizenship Again, and Activists Describe Abuse in Israeli Custody",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "18 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Cyclospora Mystery: How Human Poop Got on So Much Lettuce",
+      "title": "Is America\u2019s Drinking Water the Next Front in the Iran War?",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "28 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why the Data Center Fight Has Little to Do With AI",
-      "date": "Aug 5",
-      "duration": "36 min",
+      "title": "Google\u2019s AI Leadership Shakeup: Disaster or Exactly What It Needs?",
+      "date": "Aug 6",
+      "duration": "33 min",
       "is_today": false
     },
     {
       "name": "AI + a16z",
       "title": "Inside vLLM: The Engine Powering Open-Source AI",
-      "date": "Today",
+      "date": "Aug 6",
       "duration": "47 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "Hugging Face",
-      "title": "Collaborative AI: AMD and Anthropic Innovations",
-      "date": "Aug 5",
-      "duration": "14 min",
+      "title": "Suno adds watermarks for AI music spam | Google Maps books hotels",
+      "date": "Aug 6",
+      "duration": "16 min",
       "is_today": false
     }
   ]
