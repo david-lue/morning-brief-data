@@ -1,40 +1,40 @@
 {
-  "fetched_at": "2026-08-07T11:53:25.710467+00:00",
-  "date": "2026-08-07",
+  "fetched_at": "2026-08-08T11:38:01.436970+00:00",
+  "date": "2026-08-08",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Trump Targets Birthright Citizenship Again, and Activists Describe Abuse in Israeli Custody",
-      "date": "Today",
+      "date": "Aug 7",
       "duration": "18 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Is America\u2019s Drinking Water the Next Front in the Iran War?",
+      "title": "Billy Strings Escaped the Darkness. He\u2019s Playing to Not Go Back.",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "52 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Google\u2019s AI Leadership Shakeup: Disaster or Exactly What It Needs?",
-      "date": "Aug 6",
-      "duration": "33 min",
+      "title": "The Right Way to Worry About AI",
+      "date": "Aug 7",
+      "duration": "29 min",
       "is_today": false
     },
     {
       "name": "AI + a16z",
-      "title": "Inside vLLM: The Engine Powering Open-Source AI",
-      "date": "Aug 6",
-      "duration": "47 min",
+      "title": "How AI Is Rewriting the Rules of Cybersecurity | Truffle Security &amp; Socket",
+      "date": "Aug 7",
+      "duration": "24 min",
       "is_today": false
     },
     {
       "name": "Hugging Face",
-      "title": "Suno adds watermarks for AI music spam | Google Maps books hotels",
-      "date": "Aug 6",
-      "duration": "16 min",
+      "title": "Understanding OpenAI's Recent Speaker Launch",
+      "date": "Aug 7",
+      "duration": "10 min",
       "is_today": false
     }
   ]
