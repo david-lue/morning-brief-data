@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-08T11:38:01.436970+00:00",
-  "date": "2026-08-08",
+  "fetched_at": "2026-08-09T11:39:28.592061+00:00",
+  "date": "2026-08-09",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,16 +11,16 @@
     },
     {
       "name": "The Daily",
-      "title": "Billy Strings Escaped the Darkness. He\u2019s Playing to Not Go Back.",
+      "title": "Is &apos;Gentle Parenting&apos; Ruining French Children?",
       "date": "Today",
-      "duration": "52 min",
+      "duration": "39 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Right Way to Worry About AI",
-      "date": "Aug 7",
-      "duration": "29 min",
+      "title": "41 Stats That Tell the Story of AI Right Now",
+      "date": "Aug 8",
+      "duration": "23 min",
       "is_today": false
     },
     {
