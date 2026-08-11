@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-10T11:55:44.428892+00:00",
-  "date": "2026-08-10",
+  "fetched_at": "2026-08-11T11:52:16.084442+00:00",
+  "date": "2026-08-11",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "How Cameras Can Track Every Car in the U.S., and Iran\u2019s Catch-22",
+      "title": "Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole",
       "date": "Today",
       "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Why Adults Are Getting Cancer at a Younger Age",
+      "title": "The U.S. Missile Stockpile Is Dangerously Low",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "32 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "41 Stats That Tell the Story of AI Right Now",
-      "date": "Aug 8",
-      "duration": "23 min",
+      "title": "What the Heck is Graph Engineering?",
+      "date": "Aug 10",
+      "duration": "26 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Understanding OpenAI's Recent Speaker Launch",
-      "date": "Aug 7",
-      "duration": "10 min",
-      "is_today": false
+      "title": "Exploring Claude's Gym Hack Phenomenon",
+      "date": "Today",
+      "duration": "14 min",
+      "is_today": true
     }
   ]
 }
