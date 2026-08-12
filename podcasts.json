@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-11T11:52:16.084442+00:00",
-  "date": "2026-08-11",
+  "fetched_at": "2026-08-12T11:55:23.002836+00:00",
+  "date": "2026-08-12",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole",
+      "title": "Key Takeaways From This Week\u2019s Primaries, and the Deportees Stuck in \u2018No Man\u2019s Land\u2019",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The U.S. Missile Stockpile Is Dangerously Low",
+      "title": "All the President\u2019s Planes",
       "date": "Today",
-      "duration": "32 min",
+      "duration": "24 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "What the Heck is Graph Engineering?",
-      "date": "Aug 10",
-      "duration": "26 min",
+      "title": "AI Optimism Has a Trust Problem",
+      "date": "Aug 11",
+      "duration": "24 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Exploring Claude's Gym Hack Phenomenon",
-      "date": "Today",
-      "duration": "14 min",
-      "is_today": true
+      "title": "Impacts of OpenAI's $7 Billion Financial Strategy",
+      "date": "Aug 11",
+      "duration": "15 min",
+      "is_today": false
     }
   ]
 }
