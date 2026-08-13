@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-12T11:55:23.002836+00:00",
-  "date": "2026-08-12",
+  "fetched_at": "2026-08-13T11:55:38.512309+00:00",
+  "date": "2026-08-13",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Key Takeaways From This Week\u2019s Primaries, and the Deportees Stuck in \u2018No Man\u2019s Land\u2019",
+      "title": "ICE\u2019s Plan to Give Officers Electric Stun Gloves, and a Siege on Palestinian Homes",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "All the President\u2019s Planes",
+      "title": "Are The Democratic Socialists Winning or Losing?",
       "date": "Today",
-      "duration": "24 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Optimism Has a Trust Problem",
-      "date": "Aug 11",
-      "duration": "24 min",
+      "title": "Grok Bot Finally Makes AI Agents Easy",
+      "date": "Aug 12",
+      "duration": "28 min",
       "is_today": false
     },
     {
