@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-13T11:55:38.512309+00:00",
-  "date": "2026-08-13",
+  "fetched_at": "2026-08-14T11:53:00.733160+00:00",
+  "date": "2026-08-14",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "ICE\u2019s Plan to Give Officers Electric Stun Gloves, and a Siege on Palestinian Homes",
+      "title": "Concerns Grow Over Conditions on Aircraft Carrier, and Trump Pushes New Hacking Effort",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "16 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Are The Democratic Socialists Winning or Losing?",
+      "title": "The Secret Spy Network Feeding Russia\u2019s War Machine",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Grok Bot Finally Makes AI Agents Easy",
-      "date": "Aug 12",
-      "duration": "28 min",
+      "title": "Grok 4.6 Shows How Fast Your AI Options Are Expanding",
+      "date": "Aug 13",
+      "duration": "29 min",
       "is_today": false
     },
     {
