@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-14T11:53:00.733160+00:00",
-  "date": "2026-08-14",
+  "fetched_at": "2026-08-15T11:30:18.746676+00:00",
+  "date": "2026-08-15",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Concerns Grow Over Conditions on Aircraft Carrier, and Trump Pushes New Hacking Effort",
-      "date": "Today",
+      "date": "Aug 14",
       "duration": "16 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "The Secret Spy Network Feeding Russia\u2019s War Machine",
+      "title": "The Charming, Amusing, Surprisingly Low-Confidence Matthew Rhys",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "47 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Grok 4.6 Shows How Fast Your AI Options Are Expanding",
-      "date": "Aug 13",
+      "title": "How to Decide What Work AI Should Do for You: The AI Deputization Audit",
+      "date": "Aug 14",
       "duration": "29 min",
       "is_today": false
     },
@@ -32,8 +32,8 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Impacts of OpenAI's $7 Billion Financial Strategy",
-      "date": "Aug 11",
+      "title": "Warm Embrace: Anthropic IPO and Nvidia's Strategy",
+      "date": "Aug 14",
       "duration": "15 min",
       "is_today": false
     }
