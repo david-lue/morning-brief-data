@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-15T11:30:18.746676+00:00",
-  "date": "2026-08-15",
+  "fetched_at": "2026-08-16T11:30:44.446510+00:00",
+  "date": "2026-08-16",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "The Charming, Amusing, Surprisingly Low-Confidence Matthew Rhys",
+      "title": "What Makes a Killer Thriller?",
       "date": "Today",
-      "duration": "47 min",
+      "duration": "42 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How to Decide What Work AI Should Do for You: The AI Deputization Audit",
-      "date": "Aug 14",
+      "title": "The New Problems AI Is Creating (And How People Are Solving Them)",
+      "date": "Today",
       "duration": "29 min",
-      "is_today": false
+      "is_today": true
     },
     {
       "name": "AI + a16z",
