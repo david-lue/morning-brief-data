@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-08-16T11:30:44.446510+00:00",
-  "date": "2026-08-16",
+  "fetched_at": "2026-08-17T11:35:35.736198+00:00",
+  "date": "2026-08-17",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Concerns Grow Over Conditions on Aircraft Carrier, and Trump Pushes New Hacking Effort",
-      "date": "Aug 14",
-      "duration": "16 min",
-      "is_today": false
+      "title": "U.S. and Iran Blow Past War Deadline, and the Rise of Islamophobia in Texas",
+      "date": "Today",
+      "duration": "9 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "What Makes a Killer Thriller?",
+      "title": "Luigi Mangione\u2019s High-Risk Legal Strategy",
       "date": "Today",
-      "duration": "42 min",
+      "duration": "25 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "The New Problems AI Is Creating (And How People Are Solving Them)",
-      "date": "Today",
+      "date": "Aug 16",
       "duration": "29 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
