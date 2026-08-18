@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-17T11:35:35.736198+00:00",
-  "date": "2026-08-17",
+  "fetched_at": "2026-08-18T11:35:38.534515+00:00",
+  "date": "2026-08-18",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "U.S. and Iran Blow Past War Deadline, and the Rise of Islamophobia in Texas",
+      "title": "Trump\u2019s $47 Billion-Dollar Border Wall Plan, and Why a Tupac Murder Trial Is Starting After 30 Years",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Luigi Mangione\u2019s High-Risk Legal Strategy",
+      "title": "What Went Wrong on the U.S.S. Lincoln?",
       "date": "Today",
-      "duration": "25 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The New Problems AI Is Creating (And How People Are Solving Them)",
-      "date": "Aug 16",
-      "duration": "29 min",
+      "title": "AI Companies Still Haven\u2019t Delivered on Their Biggest Promises",
+      "date": "Aug 17",
+      "duration": "33 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Warm Embrace: Anthropic IPO and Nvidia's Strategy",
-      "date": "Aug 14",
-      "duration": "15 min",
+      "title": "Financial Milestones in AI: Anthropic Rise",
+      "date": "Aug 17",
+      "duration": "13 min",
       "is_today": false
     }
   ]
