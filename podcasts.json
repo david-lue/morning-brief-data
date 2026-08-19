@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-18T11:35:38.534515+00:00",
-  "date": "2026-08-18",
+  "fetched_at": "2026-08-19T11:35:10.192568+00:00",
+  "date": "2026-08-19",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump\u2019s $47 Billion-Dollar Border Wall Plan, and Why a Tupac Murder Trial Is Starting After 30 Years",
+      "title": "How Tech Executives Limit Their Kids\u2019 Screen Time, and Trump\u2019s Race to Finish His Ballroom",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "What Went Wrong on the U.S.S. Lincoln?",
+      "title": "El Ni\u00f1o Is Back. And Worse Than Ever.",
       "date": "Today",
-      "duration": "29 min",
+      "duration": "23 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Companies Still Haven\u2019t Delivered on Their Biggest Promises",
-      "date": "Aug 17",
-      "duration": "33 min",
+      "title": "The AI Engineering Skills Map for Knowledge Workers",
+      "date": "Aug 18",
+      "duration": "27 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Financial Milestones in AI: Anthropic Rise",
-      "date": "Aug 17",
+      "title": "Cursor Launches Origin Amidst Anthropics Growth",
+      "date": "Today",
       "duration": "13 min",
-      "is_today": false
+      "is_today": true
     }
   ]
 }
