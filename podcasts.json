@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-19T11:35:10.192568+00:00",
-  "date": "2026-08-19",
+  "fetched_at": "2026-08-20T11:36:56.018112+00:00",
+  "date": "2026-08-20",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "How Tech Executives Limit Their Kids\u2019 Screen Time, and Trump\u2019s Race to Finish His Ballroom",
+      "title": "$40,047,425,768,420 in U.S. Debt, and an Experimental Vaccine for Skin Cancer",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "El Ni\u00f1o Is Back. And Worse Than Ever.",
+      "title": "Who Moves Up, and Who&apos;s Pushed Out, in Pete Hegseth&apos;s Military",
       "date": "Today",
-      "duration": "23 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The AI Engineering Skills Map for Knowledge Workers",
-      "date": "Aug 18",
-      "duration": "27 min",
+      "title": "The AI Backlash Is Getting Stupider. But Also Smarter.",
+      "date": "Aug 19",
+      "duration": "30 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Cursor Launches Origin Amidst Anthropics Growth",
-      "date": "Today",
-      "duration": "13 min",
-      "is_today": true
+      "title": "Opening Up on AI Security Challenges",
+      "date": "Aug 19",
+      "duration": "20 min",
+      "is_today": false
     }
   ]
 }
