@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-20T11:36:56.018112+00:00",
-  "date": "2026-08-20",
+  "fetched_at": "2026-08-21T11:36:08.063505+00:00",
+  "date": "2026-08-21",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "$40,047,425,768,420 in U.S. Debt, and an Experimental Vaccine for Skin Cancer",
+      "title": "U.S.S. Lincoln Begins 13,000-Mile Journey Home, and the Shortage That Could Take Down the Grid",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "16 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Who Moves Up, and Who&apos;s Pushed Out, in Pete Hegseth&apos;s Military",
+      "title": "When Private Equity Comes for Your Favorite Team",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "35 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The AI Backlash Is Getting Stupider. But Also Smarter.",
-      "date": "Aug 19",
+      "title": "9 AI Techniques You Probably Haven't Tried",
+      "date": "Aug 20",
       "duration": "30 min",
       "is_today": false
     },
