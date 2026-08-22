@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-21T11:36:08.063505+00:00",
-  "date": "2026-08-21",
+  "fetched_at": "2026-08-22T11:31:10.866974+00:00",
+  "date": "2026-08-22",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "U.S.S. Lincoln Begins 13,000-Mile Journey Home, and the Shortage That Could Take Down the Grid",
-      "date": "Today",
+      "date": "Aug 21",
       "duration": "16 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "When Private Equity Comes for Your Favorite Team",
+      "title": "An Expert on Conflict Says Your Relationships Are Doomed Without It",
       "date": "Today",
-      "duration": "35 min",
+      "duration": "42 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "9 AI Techniques You Probably Haven't Tried",
-      "date": "Aug 20",
-      "duration": "30 min",
+      "title": "Why Everyone Suddenly Hates AI Data Centers",
+      "date": "Aug 21",
+      "duration": "36 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Opening Up on AI Security Challenges",
-      "date": "Aug 19",
-      "duration": "20 min",
-      "is_today": false
+      "title": "Opening Up: ChatGPT Can Access iMessage",
+      "date": "Today",
+      "duration": "15 min",
+      "is_today": true
     }
   ]
 }
