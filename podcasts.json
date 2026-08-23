@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-22T11:31:10.866974+00:00",
-  "date": "2026-08-22",
+  "fetched_at": "2026-08-23T11:31:31.925822+00:00",
+  "date": "2026-08-23",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "An Expert on Conflict Says Your Relationships Are Doomed Without It",
+      "title": "Think Baseball Is Boring? The Savannah Bananas Are Here to Fix That.",
       "date": "Today",
-      "duration": "42 min",
+      "duration": "37 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why Everyone Suddenly Hates AI Data Centers",
-      "date": "Aug 21",
-      "duration": "36 min",
-      "is_today": false
+      "title": "The Real Future of AI and Work",
+      "date": "Today",
+      "duration": "30 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "Opening Up: ChatGPT Can Access iMessage",
-      "date": "Today",
+      "date": "Aug 22",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
