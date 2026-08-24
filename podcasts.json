@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-08-23T11:31:31.925822+00:00",
-  "date": "2026-08-23",
+  "fetched_at": "2026-08-24T11:38:49.539730+00:00",
+  "date": "2026-08-24",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "U.S.S. Lincoln Begins 13,000-Mile Journey Home, and the Shortage That Could Take Down the Grid",
-      "date": "Aug 21",
-      "duration": "16 min",
-      "is_today": false
+      "title": "Canada Is \u2018at War\u2019 With U.S. Over Tariffs, and U.S.P.S. Publishes Plan to Restrict Ballots",
+      "date": "Today",
+      "duration": "11 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Think Baseball Is Boring? The Savannah Bananas Are Here to Fix That.",
+      "title": "Natalie Harp\u2019s Devotion to Trump",
       "date": "Today",
-      "duration": "37 min",
+      "duration": "23 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "The Real Future of AI and Work",
-      "date": "Today",
+      "date": "Aug 23",
       "duration": "30 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
