@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-08-26T11:39:21.579993+00:00",
-  "date": "2026-08-26",
+  "fetched_at": "2026-08-27T20:59:29.734957+00:00",
+  "date": "2026-08-27",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Hegseth\u2019s Army Purge, and Polling Chaos in the Midterms",
+      "title": "ICE Arrests Soar Across U.S., and Meta Agrees to Make Major Changes to Instagram and Facebook",
       "date": "Today",
-      "duration": "14 min",
+      "duration": "13 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Stunning Rise of the Democratic Socialists of America",
+      "title": "A Historic Settlement Over Social Media Addiction",
       "date": "Today",
-      "duration": "50 min",
+      "duration": "28 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "What the Top AI Users Are Doing Differently",
-      "date": "Aug 25",
-      "duration": "28 min",
-      "is_today": false
+      "title": "How We Deal With Rogue AI",
+      "date": "Today",
+      "duration": "29 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Opening Up: ChatGPT Can Access iMessage",
-      "date": "Aug 22",
-      "duration": "15 min",
-      "is_today": false
+      "title": "Opening the Door: ChatGPT vs. Claude",
+      "date": "Today",
+      "duration": "12 min",
+      "is_today": true
     }
   ]
 }
