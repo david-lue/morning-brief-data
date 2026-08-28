@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-08-27T20:59:29.734957+00:00",
-  "date": "2026-08-27",
+  "fetched_at": "2026-08-28T21:20:44.315162+00:00",
+  "date": "2026-08-28",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "ICE Arrests Soar Across U.S., and Meta Agrees to Make Major Changes to Instagram and Facebook",
+      "title": "Six Months of War, and Trump\u2019s Push for \u2018Lake America\u2019",
       "date": "Today",
-      "duration": "13 min",
+      "duration": "15 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A Historic Settlement Over Social Media Addiction",
+      "title": "Lindsay Clancy Is on Trial. So Is Postpartum Psychosis.",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "32 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "How We Deal With Rogue AI",
-      "date": "Today",
+      "date": "Aug 27",
       "duration": "29 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "Opening the Door: ChatGPT vs. Claude",
-      "date": "Today",
+      "date": "Aug 27",
       "duration": "12 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
