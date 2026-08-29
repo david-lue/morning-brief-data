@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-08-28T21:20:44.315162+00:00",
-  "date": "2026-08-28",
+  "fetched_at": "2026-08-29T15:35:01.421723+00:00",
+  "date": "2026-08-29",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Six Months of War, and Trump\u2019s Push for \u2018Lake America\u2019",
-      "date": "Today",
+      "date": "Aug 28",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Lindsay Clancy Is on Trial. So Is Postpartum Psychosis.",
+      "title": "Ina Garten Says You Can Either Get on Her Train or Get Out of the Way",
       "date": "Today",
-      "duration": "32 min",
+      "duration": "38 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How We Deal With Rogue AI",
-      "date": "Aug 27",
-      "duration": "29 min",
+      "title": "The Most Useful New AI Features and Tools to Try",
+      "date": "Aug 28",
+      "duration": "34 min",
       "is_today": false
     },
     {
