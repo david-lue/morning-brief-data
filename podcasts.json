@@ -1,19 +1,19 @@
 {
-  "fetched_at": "2026-08-30T15:18:33.636349+00:00",
-  "date": "2026-08-30",
+  "fetched_at": "2026-08-31T17:58:44.347199+00:00",
+  "date": "2026-08-31",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Six Months of War, and Trump\u2019s Push for \u2018Lake America\u2019",
-      "date": "Aug 28",
-      "duration": "15 min",
-      "is_today": false
+      "title": "The Navy\u2019s Supply Chain Struggle, and Trump\u2019s Unusual Oil Deal in Venezuela",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Who Will Rule the 2026 U.S. Open?",
+      "title": "How Flock Cameras Took Over America",
       "date": "Today",
-      "duration": "39 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
