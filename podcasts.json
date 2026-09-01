@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-31T17:58:44.347199+00:00",
-  "date": "2026-08-31",
+  "fetched_at": "2026-09-01T15:26:59.155886+00:00",
+  "date": "2026-09-01",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The Navy\u2019s Supply Chain Struggle, and Trump\u2019s Unusual Oil Deal in Venezuela",
+      "title": "The Supreme Court\u2019s Secret Documents, and an Unusual Order From the C.D.C. Director",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "How Flock Cameras Took Over America",
+      "title": "How a Teenager Found Undiagnosed Brain Injuries in the Military",
       "date": "Today",
-      "duration": "29 min",
+      "duration": "39 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How to Start AI Coding If You Haven\u2019t Yet",
-      "date": "Aug 29",
+      "title": "How to Navigate the Next Wave of AI Competition",
+      "date": "Aug 31",
       "duration": "29 min",
       "is_today": false
     },
