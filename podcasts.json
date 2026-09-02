@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-01T15:26:59.155886+00:00",
-  "date": "2026-09-01",
+  "fetched_at": "2026-09-02T15:03:44.641400+00:00",
+  "date": "2026-09-02",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The Supreme Court\u2019s Secret Documents, and an Unusual Order From the C.D.C. Director",
+      "title": "Russia\u2019s New Push to Torment Kyiv, and a Whistle-Blower\u2019s Warning on Mail-In Voting",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "How a Teenager Found Undiagnosed Brain Injuries in the Military",
+      "title": "The Fight for the West Bank",
       "date": "Today",
-      "duration": "39 min",
+      "duration": "28 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How to Navigate the Next Wave of AI Competition",
-      "date": "Aug 31",
-      "duration": "29 min",
+      "title": "OpenClaw 2.0 Shows Where AI Agents Are Going Next",
+      "date": "Sep 1",
+      "duration": "26 min",
       "is_today": false
     },
     {
