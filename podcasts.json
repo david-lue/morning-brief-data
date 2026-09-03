@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-02T15:03:44.641400+00:00",
-  "date": "2026-09-02",
+  "fetched_at": "2026-09-03T14:57:38.413414+00:00",
+  "date": "2026-09-03",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Russia\u2019s New Push to Torment Kyiv, and a Whistle-Blower\u2019s Warning on Mail-In Voting",
+      "title": "U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "12 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Fight for the West Bank",
+      "title": "A.I. Is Outsmarting Its Creators",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "41 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "OpenClaw 2.0 Shows Where AI Agents Are Going Next",
-      "date": "Sep 1",
-      "duration": "26 min",
+      "title": "Why Fable 5.1 Is Worth the Upgrade",
+      "date": "Sep 2",
+      "duration": "31 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Opening the Door: ChatGPT vs. Claude",
-      "date": "Aug 27",
-      "duration": "12 min",
-      "is_today": false
+      "title": "Overview of Features in Fable 5.1 and Astra",
+      "date": "Today",
+      "duration": "16 min",
+      "is_today": true
     }
   ]
 }
