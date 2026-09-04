@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-03T14:57:38.413414+00:00",
-  "date": "2026-09-03",
+  "fetched_at": "2026-09-04T14:55:04.535452+00:00",
+  "date": "2026-09-04",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics",
+      "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk\u2019s Political War Chest",
       "date": "Today",
-      "duration": "12 min",
+      "duration": "15 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A.I. Is Outsmarting Its Creators",
+      "title": "The Intertwined Legacies of Gloria Steinem and Dolly Parton",
       "date": "Today",
-      "duration": "41 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why Fable 5.1 Is Worth the Upgrade",
-      "date": "Sep 2",
-      "duration": "31 min",
+      "title": "Agentic Loops for Knowledge Workers",
+      "date": "Sep 3",
+      "duration": "57 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Overview of Features in Fable 5.1 and Astra",
+      "title": "GPT-6 Launch Sparks Services Crisis",
       "date": "Today",
-      "duration": "16 min",
+      "duration": "20 min",
       "is_today": true
     }
   ]
