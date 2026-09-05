@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-04T14:55:04.535452+00:00",
-  "date": "2026-09-04",
+  "fetched_at": "2026-09-05T13:50:21.034144+00:00",
+  "date": "2026-09-05",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk\u2019s Political War Chest",
-      "date": "Today",
+      "date": "Sep 4",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
       "title": "The Intertwined Legacies of Gloria Steinem and Dolly Parton",
-      "date": "Today",
+      "date": "Sep 4",
       "duration": "31 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI Daily Brief",
-      "title": "Agentic Loops for Knowledge Workers",
-      "date": "Sep 3",
-      "duration": "57 min",
+      "title": "How AI Changed This Summer",
+      "date": "Sep 4",
+      "duration": "24 min",
       "is_today": false
     },
     {
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "GPT-6 Launch Sparks Services Crisis",
-      "date": "Today",
+      "date": "Sep 4",
       "duration": "20 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
