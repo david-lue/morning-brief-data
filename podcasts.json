@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-05T13:50:21.034144+00:00",
-  "date": "2026-09-05",
+  "fetched_at": "2026-09-06T14:07:28.042840+00:00",
+  "date": "2026-09-06",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "The Intertwined Legacies of Gloria Steinem and Dolly Parton",
-      "date": "Sep 4",
-      "duration": "31 min",
-      "is_today": false
+      "title": "Classical Music Is in Crisis. Gustavo Dudamel Is Here to Save It.",
+      "date": "Today",
+      "duration": "43 min",
+      "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How AI Changed This Summer",
-      "date": "Sep 4",
-      "duration": "24 min",
-      "is_today": false
+      "title": "How to Build an AI-Native Company Today",
+      "date": "Today",
+      "duration": "28 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
