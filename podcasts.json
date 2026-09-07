@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-06T14:07:28.042840+00:00",
-  "date": "2026-09-06",
+  "fetched_at": "2026-09-07T16:25:08.673033+00:00",
+  "date": "2026-09-07",
   "episodes": [
     {
       "name": "The Headlines",
@@ -12,15 +12,15 @@
     {
       "name": "The Daily",
       "title": "Classical Music Is in Crisis. Gustavo Dudamel Is Here to Save It.",
-      "date": "Today",
+      "date": "Sep 6",
       "duration": "43 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI Daily Brief",
-      "title": "How to Build an AI-Native Company Today",
+      "title": "The Multiplayer AI Sprint: Build Your Team\u2019s First Shared Agent",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "26 min",
       "is_today": true
     },
     {
