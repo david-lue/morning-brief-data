@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-08T15:03:09.696788+00:00",
-  "date": "2026-09-08",
+  "fetched_at": "2026-09-09T15:04:53.776006+00:00",
+  "date": "2026-09-09",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Why the Pentagon Is Doing Polygraphs, and Officials Prepare to Release Huge Set of 9/11 Documents",
+      "title": "Why Trump Is Gathering Republicans in Texas, and Iran Targets U.S. Warships",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "\u2018Buy Now, Pay Later\u2019: A New Wave of Consumer Debt",
+      "title": "Trump\u2019s War on Mail-In Voting",
       "date": "Today",
-      "duration": "24 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Multiplayer AI Sprint: Build Your Team\u2019s First Shared Agent",
-      "date": "Sep 7",
-      "duration": "26 min",
+      "title": "Why GPT-6 Astra Is So Significant and So Confounding",
+      "date": "Sep 8",
+      "duration": "29 min",
       "is_today": false
     },
     {
