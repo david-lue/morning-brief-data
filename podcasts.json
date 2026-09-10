@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-09T15:04:53.776006+00:00",
-  "date": "2026-09-09",
+  "fetched_at": "2026-09-10T14:57:17.125083+00:00",
+  "date": "2026-09-10",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Why Trump Is Gathering Republicans in Texas, and Iran Targets U.S. Warships",
+      "title": "Trump Dangles $5,000 Payments if Republicans Win, and Deportees Are Stranded in Haiti",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "12 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Trump\u2019s War on Mail-In Voting",
+      "title": "A Couple Breaks Up. Who Gets Custody of Their Embryos?",
       "date": "Today",
-      "duration": "27 min",
+      "duration": "44 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why GPT-6 Astra Is So Significant and So Confounding",
-      "date": "Sep 8",
-      "duration": "29 min",
+      "title": "AI Model Month Is Off to a Blistering Start",
+      "date": "Sep 9",
+      "duration": "34 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "GPT-6 Launch Sparks Services Crisis",
-      "date": "Sep 4",
-      "duration": "20 min",
-      "is_today": false
+      "title": "AI Threats Discussed by Anthropic Researcher",
+      "date": "Today",
+      "duration": "23 min",
+      "is_today": true
     }
   ]
 }
