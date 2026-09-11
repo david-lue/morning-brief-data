@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-10T14:57:17.125083+00:00",
-  "date": "2026-09-10",
+  "fetched_at": "2026-09-11T14:58:05.071646+00:00",
+  "date": "2026-09-11",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump Dangles $5,000 Payments if Republicans Win, and Deportees Are Stranded in Haiti",
+      "title": "What JD Vance Knew About the War, and New Warnings About A.I.",
       "date": "Today",
-      "duration": "12 min",
+      "duration": "16 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A Couple Breaks Up. Who Gets Custody of Their Embryos?",
+      "title": "The Lives That 9/11 Keeps Taking",
       "date": "Today",
-      "duration": "44 min",
+      "duration": "38 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Model Month Is Off to a Blistering Start",
-      "date": "Sep 9",
-      "duration": "34 min",
+      "title": "Anthropic Researcher Says AI Has Over a 10% Chance of Killing All Humans",
+      "date": "Sep 10",
+      "duration": "36 min",
       "is_today": false
     },
     {
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "AI Threats Discussed by Anthropic Researcher",
-      "date": "Today",
+      "date": "Sep 10",
       "duration": "23 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
