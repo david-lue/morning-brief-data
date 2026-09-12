@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-11T14:58:05.071646+00:00",
-  "date": "2026-09-11",
+  "fetched_at": "2026-09-12T14:03:10.447821+00:00",
+  "date": "2026-09-12",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "What JD Vance Knew About the War, and New Warnings About A.I.",
-      "date": "Today",
+      "date": "Sep 11",
       "duration": "16 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "The Lives That 9/11 Keeps Taking",
+      "title": "Naomi Klein and Astra Taylor Say the End of the World is Now on the Table",
       "date": "Today",
       "duration": "38 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Anthropic Researcher Says AI Has Over a 10% Chance of Killing All Humans",
-      "date": "Sep 10",
-      "duration": "36 min",
+      "title": "What to Use the Latest AI Tools For",
+      "date": "Sep 11",
+      "duration": "32 min",
       "is_today": false
     },
     {
