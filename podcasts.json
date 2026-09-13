@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-12T14:03:10.447821+00:00",
-  "date": "2026-09-12",
+  "fetched_at": "2026-09-13T14:53:57.861426+00:00",
+  "date": "2026-09-13",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Naomi Klein and Astra Taylor Say the End of the World is Now on the Table",
+      "title": "The Good, the Bad and the Good-Bad (Movie)",
       "date": "Today",
       "duration": "38 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "What to Use the Latest AI Tools For",
-      "date": "Sep 11",
-      "duration": "32 min",
-      "is_today": false
+      "title": "10 Ways to Think Bigger with Opportunity AI",
+      "date": "Today",
+      "duration": "28 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
