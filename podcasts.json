@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-09-13T14:53:57.861426+00:00",
-  "date": "2026-09-13",
+  "fetched_at": "2026-09-14T16:56:05.738495+00:00",
+  "date": "2026-09-14",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "What JD Vance Knew About the War, and New Warnings About A.I.",
-      "date": "Sep 11",
-      "duration": "16 min",
-      "is_today": false
+      "title": "The Escalating Warnings About A.I., and the Rise of a Deadly New Street Drug",
+      "date": "Today",
+      "duration": "11 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Good, the Bad and the Good-Bad (Movie)",
+      "title": "The A.I. Researcher Whose Rebellion Is Changing Everything",
       "date": "Today",
-      "duration": "38 min",
+      "duration": "34 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "10 Ways to Think Bigger with Opportunity AI",
-      "date": "Today",
+      "date": "Sep 13",
       "duration": "28 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
