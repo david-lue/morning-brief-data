@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-14T16:56:05.738495+00:00",
-  "date": "2026-09-14",
+  "fetched_at": "2026-09-15T15:31:55.301101+00:00",
+  "date": "2026-09-15",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The Escalating Warnings About A.I., and the Rise of a Deadly New Street Drug",
+      "title": "New Poll Shows Democrats Have Midterms Momentum, and Trump Calls A.I. Fears \u2018a Hoax\u2019",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The A.I. Researcher Whose Rebellion Is Changing Everything",
+      "title": "The Bond Market Is Flipping Out. Here\u2019s Why You Should Care.",
       "date": "Today",
-      "duration": "34 min",
+      "duration": "28 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "10 Ways to Think Bigger with Opportunity AI",
-      "date": "Sep 13",
-      "duration": "28 min",
+      "title": "Even Other AI Labs Are Rallying Around Anthropic\u2019s Slowdown Proposal",
+      "date": "Sep 14",
+      "duration": "37 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "AI Threats Discussed by Anthropic Researcher",
-      "date": "Sep 10",
-      "duration": "23 min",
+      "title": "Musk Takes a Stand on AI Development Speed",
+      "date": "Sep 14",
+      "duration": "16 min",
       "is_today": false
     }
   ]
