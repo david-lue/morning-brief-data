@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-15T15:31:55.301101+00:00",
-  "date": "2026-09-15",
+  "fetched_at": "2026-09-16T15:24:08.544945+00:00",
+  "date": "2026-09-16",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "New Poll Shows Democrats Have Midterms Momentum, and Trump Calls A.I. Fears \u2018a Hoax\u2019",
+      "title": "Fuel Riots Spread Around the World, and Trump Approves $2.8 Billion Arms Sale to Israel",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "12 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Bond Market Is Flipping Out. Here\u2019s Why You Should Care.",
+      "title": "48 Days Until the Midterms: Is a Blue Wave Coming?",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "37 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Even Other AI Labs Are Rallying Around Anthropic\u2019s Slowdown Proposal",
-      "date": "Sep 14",
-      "duration": "37 min",
+      "title": "Trump Rails Against AI Slowdown \"Hoax\"",
+      "date": "Sep 15",
+      "duration": "26 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Musk Takes a Stand on AI Development Speed",
-      "date": "Sep 14",
-      "duration": "16 min",
+      "title": "Microsoft Introduces AI Code of Conduct",
+      "date": "Sep 15",
+      "duration": "11 min",
       "is_today": false
     }
   ]
