@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-16T15:24:08.544945+00:00",
-  "date": "2026-09-16",
+  "fetched_at": "2026-09-17T15:31:02.920871+00:00",
+  "date": "2026-09-17",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Fuel Riots Spread Around the World, and Trump Approves $2.8 Billion Arms Sale to Israel",
+      "title": "The Deadly Choice Facing Many Gazans, and a New Disclosure of \u201cConcerning\u201d A.I. Behavior",
       "date": "Today",
-      "duration": "12 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "48 Days Until the Midterms: Is a Blue Wave Coming?",
+      "title": "Why Gas Prices Just Keep Going Up",
       "date": "Today",
-      "duration": "37 min",
+      "duration": "24 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Trump Rails Against AI Slowdown \"Hoax\"",
-      "date": "Sep 15",
-      "duration": "26 min",
+      "title": "Why a New Class of AI \u201cJudgment Models\u201d Could Have Big Business Implications",
+      "date": "Sep 16",
+      "duration": "25 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Microsoft Introduces AI Code of Conduct",
-      "date": "Sep 15",
-      "duration": "11 min",
+      "title": "Anthropic Joins AI Energy Alliance, Apple Launching Servers",
+      "date": "Sep 16",
+      "duration": "12 min",
       "is_today": false
     }
   ]
