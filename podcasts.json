@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-17T15:31:02.920871+00:00",
-  "date": "2026-09-17",
+  "fetched_at": "2026-09-18T14:56:46.552261+00:00",
+  "date": "2026-09-18",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The Deadly Choice Facing Many Gazans, and a New Disclosure of \u201cConcerning\u201d A.I. Behavior",
+      "title": "How the Kremlin Gets the Election Results It Wants, and R.F.K. Jr. Rallies Vaccine Skeptics",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "15 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Why Gas Prices Just Keep Going Up",
+      "title": "The Techno-Religion at the Center of the A.I. Debate",
       "date": "Today",
-      "duration": "24 min",
+      "duration": "34 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why a New Class of AI \u201cJudgment Models\u201d Could Have Big Business Implications",
-      "date": "Sep 16",
-      "duration": "25 min",
+      "title": "Why Everyone Is Getting Excited About Personal AI Agents",
+      "date": "Sep 17",
+      "duration": "30 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic Joins AI Energy Alliance, Apple Launching Servers",
-      "date": "Sep 16",
-      "duration": "12 min",
-      "is_today": false
+      "title": "Figure's Robotics Breakthrough for Humanoids",
+      "date": "Today",
+      "duration": "18 min",
+      "is_today": true
     }
   ]
 }
