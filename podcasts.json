@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-18T14:56:46.552261+00:00",
-  "date": "2026-09-18",
+  "fetched_at": "2026-09-19T14:20:43.290237+00:00",
+  "date": "2026-09-19",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "How the Kremlin Gets the Election Results It Wants, and R.F.K. Jr. Rallies Vaccine Skeptics",
-      "date": "Today",
+      "date": "Sep 18",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "The Techno-Religion at the Center of the A.I. Debate",
+      "title": "Aaron Sorkin Goes Off Script",
       "date": "Today",
-      "duration": "34 min",
+      "duration": "61 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why Everyone Is Getting Excited About Personal AI Agents",
-      "date": "Sep 17",
+      "title": "The AI Challenges Businesses Are Actually Focused On Right Now",
+      "date": "Sep 18",
       "duration": "30 min",
       "is_today": false
     },
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Figure's Robotics Breakthrough for Humanoids",
-      "date": "Today",
-      "duration": "18 min",
-      "is_today": true
+      "title": "Anthropic Opens Bio \"Wet Lab\" in SF and Meta's Muse App",
+      "date": "Sep 18",
+      "duration": "13 min",
+      "is_today": false
     }
   ]
 }
