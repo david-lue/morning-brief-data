@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-19T14:20:43.290237+00:00",
-  "date": "2026-09-19",
+  "fetched_at": "2026-09-20T14:40:22.078259+00:00",
+  "date": "2026-09-20",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Aaron Sorkin Goes Off Script",
+      "title": "How a 1,000-Year-Old Tapestry Took London by Storm",
       "date": "Today",
-      "duration": "61 min",
+      "duration": "35 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The AI Challenges Businesses Are Actually Focused On Right Now",
-      "date": "Sep 18",
-      "duration": "30 min",
-      "is_today": false
+      "title": "7 Ways How We Use AI Is Changing",
+      "date": "Today",
+      "duration": "26 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
