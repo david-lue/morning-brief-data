@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-09-20T14:40:22.078259+00:00",
-  "date": "2026-09-20",
+  "fetched_at": "2026-09-21T16:59:32.276913+00:00",
+  "date": "2026-09-21",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "How the Kremlin Gets the Election Results It Wants, and R.F.K. Jr. Rallies Vaccine Skeptics",
-      "date": "Sep 18",
-      "duration": "15 min",
-      "is_today": false
+      "title": "Trump\u2019s New Middle East Dilemma, and How DraftKings Uses A.I. to Target Gamblers",
+      "date": "Today",
+      "duration": "11 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "How a 1,000-Year-Old Tapestry Took London by Storm",
+      "title": "The Trump Administration Defangs the Endangered Species Act",
       "date": "Today",
-      "duration": "35 min",
+      "duration": "24 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "7 Ways How We Use AI Is Changing",
-      "date": "Today",
+      "date": "Sep 20",
       "duration": "26 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
