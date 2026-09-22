@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-21T16:59:32.276913+00:00",
-  "date": "2026-09-21",
+  "fetched_at": "2026-09-22T15:29:20.565894+00:00",
+  "date": "2026-09-22",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump\u2019s New Middle East Dilemma, and How DraftKings Uses A.I. to Target Gamblers",
+      "title": "Why Xi Is Coming to Washington, and White House TV Feeds Go Dark",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Trump Administration Defangs the Endangered Species Act",
+      "title": "Trump Banned the Media. This Time, the Media Struck Back.",
       "date": "Today",
-      "duration": "24 min",
+      "duration": "28 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "7 Ways How We Use AI Is Changing",
-      "date": "Sep 20",
-      "duration": "26 min",
+      "title": "The State of the AI Debate",
+      "date": "Sep 21",
+      "duration": "27 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic Opens Bio \"Wet Lab\" in SF and Meta's Muse App",
-      "date": "Sep 18",
-      "duration": "13 min",
+      "title": "Amazon blocks Meta's Muse Agent, Trump Rebands AI, Newsom Create AI Kill Switch",
+      "date": "Sep 21",
+      "duration": "29 min",
       "is_today": false
     }
   ]
