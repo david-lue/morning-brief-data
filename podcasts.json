@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-22T15:29:20.565894+00:00",
-  "date": "2026-09-22",
+  "fetched_at": "2026-09-23T15:25:30.842292+00:00",
+  "date": "2026-09-23",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Why Xi Is Coming to Washington, and White House TV Feeds Go Dark",
+      "title": "Trump\u2019s Major Retreat on Greenland, and Why Texas Hit Pause on New Data Centers",
       "date": "Today",
       "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Trump Banned the Media. This Time, the Media Struck Back.",
+      "title": "Health Trackers Are Everywhere. Do Babies Need Them, Too?",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "34 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The State of the AI Debate",
-      "date": "Sep 21",
-      "duration": "27 min",
+      "title": "Agent Wars!",
+      "date": "Sep 22",
+      "duration": "31 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Amazon blocks Meta's Muse Agent, Trump Rebands AI, Newsom Create AI Kill Switch",
-      "date": "Sep 21",
-      "duration": "29 min",
+      "title": "Anthropic Releases Opus 5.5, OpenAI Unveils New Models",
+      "date": "Sep 22",
+      "duration": "14 min",
       "is_today": false
     }
   ]
