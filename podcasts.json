@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-23T15:25:30.842292+00:00",
-  "date": "2026-09-23",
+  "fetched_at": "2026-09-24T15:47:39.249127+00:00",
+  "date": "2026-09-24",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump\u2019s Major Retreat on Greenland, and Why Texas Hit Pause on New Data Centers",
+      "title": "Judge Blocks Trump\u2019s Ban on Reporters, and How A.I. Is Driving Up Health Care Costs",
       "date": "Today",
       "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Health Trackers Are Everywhere. Do Babies Need Them, Too?",
+      "title": "What Safeguarding Nukes Can Teach Us About Safeguarding A.I.",
       "date": "Today",
-      "duration": "34 min",
+      "duration": "37 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Agent Wars!",
-      "date": "Sep 22",
+      "title": "Opus 5.5 vs GPT-6 Sol and Luna",
+      "date": "Sep 23",
       "duration": "31 min",
       "is_today": false
     },
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic Releases Opus 5.5, OpenAI Unveils New Models",
-      "date": "Sep 22",
-      "duration": "14 min",
+      "title": "Claude Makes Bio Discovery in Wet Lab, OpenAI Solves 100 Math Problems",
+      "date": "Sep 23",
+      "duration": "17 min",
       "is_today": false
     }
   ]
