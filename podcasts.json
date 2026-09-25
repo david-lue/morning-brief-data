@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-24T15:47:39.249127+00:00",
-  "date": "2026-09-24",
+  "fetched_at": "2026-09-25T15:47:30.191435+00:00",
+  "date": "2026-09-25",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Judge Blocks Trump\u2019s Ban on Reporters, and How A.I. Is Driving Up Health Care Costs",
+      "title": "Trump\u2019s Standoff With White House Reporters, and the Rise and Fall of \u2018Pervert Glasses\u2019",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "14 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "What Safeguarding Nukes Can Teach Us About Safeguarding A.I.",
+      "title": "The Life and, for Now, the Death of the Kennedy Center",
       "date": "Today",
-      "duration": "37 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Opus 5.5 vs GPT-6 Sol and Luna",
-      "date": "Sep 23",
-      "duration": "31 min",
+      "title": "AI Agents Are Moving Into the Real World",
+      "date": "Sep 24",
+      "duration": "28 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Claude Makes Bio Discovery in Wet Lab, OpenAI Solves 100 Math Problems",
-      "date": "Sep 23",
-      "duration": "17 min",
+      "title": "Meta Unveils Muse Charm and Gemini Can Call for You",
+      "date": "Sep 24",
+      "duration": "18 min",
       "is_today": false
     }
   ]
