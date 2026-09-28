@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-27T15:37:29.551788+00:00",
-  "date": "2026-09-27",
+  "fetched_at": "2026-09-28T18:34:12.571064+00:00",
+  "date": "2026-09-28",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump\u2019s Standoff With White House Reporters, and the Rise and Fall of \u2018Pervert Glasses\u2019",
-      "date": "Sep 25",
-      "duration": "14 min",
-      "is_today": false
+      "title": "Possible Terror Plot Thwarted at U.K. Base, and Amazon Drones Overwhelm a Texas Town",
+      "date": "Today",
+      "duration": "11 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Best TV Shows of the 21st Century",
+      "title": "He Was Deported to a Country He\u2019d Never Heard Of",
       "date": "Today",
-      "duration": "57 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Rise of the AI Moderates",
+      "title": "The Real Risks of AI Agents",
       "date": "Today",
-      "duration": "33 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
