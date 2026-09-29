@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-09-28T18:34:12.571064+00:00",
-  "date": "2026-09-28",
+  "fetched_at": "2026-09-29T16:51:52.608628+00:00",
+  "date": "2026-09-29",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Possible Terror Plot Thwarted at U.K. Base, and Amazon Drones Overwhelm a Texas Town",
+      "title": "Huge Data Breach Leaves F.B.I. Scrambling, and Russian Attacks Destroy Millions of Books",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "He Was Deported to a Country He\u2019d Never Heard Of",
+      "title": "Are Prediction Markets Gambling? A Lot Rides on the Answer.",
       "date": "Today",
       "duration": "27 min",
       "is_today": true
@@ -19,9 +19,9 @@
     {
       "name": "AI Daily Brief",
       "title": "The Real Risks of AI Agents",
-      "date": "Today",
+      "date": "Sep 28",
       "duration": "29 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
