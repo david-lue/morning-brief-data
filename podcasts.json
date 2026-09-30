@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-29T16:51:52.608628+00:00",
-  "date": "2026-09-29",
+  "fetched_at": "2026-09-30T16:47:59.240519+00:00",
+  "date": "2026-09-30",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Huge Data Breach Leaves F.B.I. Scrambling, and Russian Attacks Destroy Millions of Books",
+      "title": "U.S. Withdraws From Iraq After Two Decades, and Trump Tells A.I. Giants to Police Themselves",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Are Prediction Markets Gambling? A Lot Rides on the Answer.",
+      "title": "Inside the Devastating Hack of the F.B.I.",
       "date": "Today",
-      "duration": "27 min",
+      "duration": "24 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Real Risks of AI Agents",
-      "date": "Sep 28",
-      "duration": "29 min",
+      "title": "How to Build Team Agents",
+      "date": "Sep 29",
+      "duration": "42 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Meta Unveils Muse Charm and Gemini Can Call for You",
-      "date": "Sep 24",
-      "duration": "18 min",
+      "title": "OpenAI's Astra Breaks Unsolved Enigma Messages",
+      "date": "Sep 29",
+      "duration": "17 min",
       "is_today": false
     }
   ]
