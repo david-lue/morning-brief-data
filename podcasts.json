@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-01T17:20:38.945407+00:00",
-  "date": "2026-10-01",
+  "fetched_at": "2026-10-02T16:36:14.435750+00:00",
+  "date": "2026-10-02",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "What Newly Obtained Documents Show About the Cornell Case, and Inside the Bloody Midair Cockpit Attack",
+      "title": "Where Voters Are Abandoning Trump, and Barriers to New Cancer Treatments",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "16 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Why Washington Is Trying to Rein In College Sports",
+      "title": "The Firestorm Over a Rape Allegation at Cornell",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Most Important New AI Tools from OpenAI DevDay",
-      "date": "Sep 30",
-      "duration": "23 min",
+      "title": "Gemini 4 Argon, Sonnet 5.5 and What Matters with AI Models",
+      "date": "Oct 1",
+      "duration": "29 min",
       "is_today": false
     },
     {
