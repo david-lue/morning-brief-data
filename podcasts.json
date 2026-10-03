@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-02T16:36:14.435750+00:00",
-  "date": "2026-10-02",
+  "fetched_at": "2026-10-03T15:07:31.221789+00:00",
+  "date": "2026-10-03",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Where Voters Are Abandoning Trump, and Barriers to New Cancer Treatments",
-      "date": "Today",
+      "date": "Oct 2",
       "duration": "16 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "The Firestorm Over a Rape Allegation at Cornell",
+      "title": "Chris Rock Has Been Thinking About Forgiveness",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "63 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Gemini 4 Argon, Sonnet 5.5 and What Matters with AI Models",
-      "date": "Oct 1",
-      "duration": "29 min",
+      "title": "What the Best Business AI Users Are Doing Different",
+      "date": "Oct 2",
+      "duration": "23 min",
       "is_today": false
     },
     {
