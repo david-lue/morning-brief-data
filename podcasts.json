@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-03T15:07:31.221789+00:00",
-  "date": "2026-10-03",
+  "fetched_at": "2026-10-04T15:46:21.688539+00:00",
+  "date": "2026-10-04",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Chris Rock Has Been Thinking About Forgiveness",
+      "title": "The Restaurant Industry Is Broken. Can It Be Fixed?",
       "date": "Today",
-      "duration": "63 min",
+      "duration": "37 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "What the Best Business AI Users Are Doing Different",
-      "date": "Oct 2",
-      "duration": "23 min",
-      "is_today": false
+      "title": "How to Choose Your Personal AI Agent",
+      "date": "Today",
+      "duration": "25 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
