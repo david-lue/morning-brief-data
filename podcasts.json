@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-10-04T15:46:21.688539+00:00",
-  "date": "2026-10-04",
+  "fetched_at": "2026-10-06T17:09:03.049448+00:00",
+  "date": "2026-10-06",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Where Voters Are Abandoning Trump, and Barriers to New Cancer Treatments",
-      "date": "Oct 2",
-      "duration": "16 min",
-      "is_today": false
+      "title": "Huge Protests Put France on Edge, and How Meta Exploited a Tax Credit to Save Billions",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Restaurant Industry Is Broken. Can It Be Fixed?",
+      "title": "Call My A.I. Agent",
       "date": "Today",
-      "duration": "37 min",
+      "duration": "28 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How to Choose Your Personal AI Agent",
-      "date": "Today",
-      "duration": "25 min",
-      "is_today": true
+      "title": "Why Companies Want AI They Can Own",
+      "date": "Oct 5",
+      "duration": "27 min",
+      "is_today": false
     },
     {
       "name": "AI + a16z",
