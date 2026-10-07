@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-06T17:09:03.049448+00:00",
-  "date": "2026-10-06",
+  "fetched_at": "2026-10-07T17:46:54.025937+00:00",
+  "date": "2026-10-07",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Huge Protests Put France on Edge, and How Meta Exploited a Tax Credit to Save Billions",
+      "title": "A Wall Street Record, and Why India Cut 130 Million Names From Its Voter Roll",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Call My A.I. Agent",
+      "title": "Three Vans, a Startled Farmer and an Iranian Plot Against the U.S.",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "23 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why Companies Want AI They Can Own",
-      "date": "Oct 5",
+      "title": "Point-Counterpoint: Consumers Will Never Pay for AI",
+      "date": "Oct 6",
       "duration": "27 min",
       "is_today": false
     },
