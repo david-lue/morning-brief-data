@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-07T17:46:54.025937+00:00",
-  "date": "2026-10-07",
+  "fetched_at": "2026-10-08T17:50:36.900006+00:00",
+  "date": "2026-10-08",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A Wall Street Record, and Why India Cut 130 Million Names From Its Voter Roll",
+      "title": "A Forced Retreat for Trump and Hegseth, and What to Know About the Russia Plague Scare",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Three Vans, a Startled Farmer and an Iranian Plot Against the U.S.",
+      "title": "A Failed Execution and the Future of the Death Penalty",
       "date": "Today",
-      "duration": "23 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Point-Counterpoint: Consumers Will Never Pay for AI",
-      "date": "Oct 6",
-      "duration": "27 min",
+      "title": "The Best Way to Test New AI Models",
+      "date": "Oct 7",
+      "duration": "50 min",
       "is_today": false
     },
     {
