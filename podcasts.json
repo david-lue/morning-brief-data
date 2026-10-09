@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-10-08T17:50:36.900006+00:00",
-  "date": "2026-10-08",
+  "fetched_at": "2026-10-09T17:25:02.291060+00:00",
+  "date": "2026-10-09",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A Forced Retreat for Trump and Hegseth, and What to Know About the Russia Plague Scare",
+      "title": "The 2026 Nobel Peace Prize Winner, and the Pentagon\u2019s Plan to Livestream an Execution",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "16 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A Failed Execution and the Future of the Death Penalty",
+      "title": "Why France Is in Crisis",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "26 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Best Way to Test New AI Models",
-      "date": "Oct 7",
-      "duration": "50 min",
-      "is_today": false
+      "title": "The Most Important Trends in New AI Products",
+      "date": "Today",
+      "duration": "28 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "OpenAI's Astra Breaks Unsolved Enigma Messages",
-      "date": "Sep 29",
-      "duration": "17 min",
-      "is_today": false
+      "title": "OpenAI's Releases \"Intelligent UI\" and Anthropic's New Model",
+      "date": "Today",
+      "duration": "24 min",
+      "is_today": true
     }
   ]
 }
