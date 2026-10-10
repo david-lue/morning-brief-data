@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-10-09T17:25:02.291060+00:00",
-  "date": "2026-10-09",
+  "fetched_at": "2026-10-10T16:12:30.316541+00:00",
+  "date": "2026-10-10",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "The 2026 Nobel Peace Prize Winner, and the Pentagon\u2019s Plan to Livestream an Execution",
-      "date": "Today",
+      "date": "Oct 9",
       "duration": "16 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Why France Is in Crisis",
+      "title": "She\u2019s Been to Gaza. She Met With the Iranians. Now She Has a Warning.",
       "date": "Today",
-      "duration": "26 min",
+      "duration": "42 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Most Important Trends in New AI Products",
-      "date": "Today",
-      "duration": "28 min",
-      "is_today": true
+      "title": "When AI Solves Your Life\u2019s Work",
+      "date": "Oct 9",
+      "duration": "25 min",
+      "is_today": false
     },
     {
       "name": "AI + a16z",
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "OpenAI's Releases \"Intelligent UI\" and Anthropic's New Model",
-      "date": "Today",
+      "date": "Oct 9",
       "duration": "24 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
