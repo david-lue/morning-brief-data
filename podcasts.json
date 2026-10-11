@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-10T16:12:30.316541+00:00",
-  "date": "2026-10-10",
+  "fetched_at": "2026-10-11T16:37:22.115155+00:00",
+  "date": "2026-10-11",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "She\u2019s Been to Gaza. She Met With the Iranians. Now She Has a Warning.",
+      "title": "Celine Dion\u2019s Triumphant Return to the Stage",
       "date": "Today",
-      "duration": "42 min",
+      "duration": "39 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "When AI Solves Your Life\u2019s Work",
-      "date": "Oct 9",
+      "title": "The 5 Debates Shaping AI",
+      "date": "Today",
       "duration": "25 min",
-      "is_today": false
+      "is_today": true
     },
     {
       "name": "AI + a16z",
