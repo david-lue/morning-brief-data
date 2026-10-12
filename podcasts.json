@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-11T16:37:22.115155+00:00",
-  "date": "2026-10-11",
+  "fetched_at": "2026-10-12T20:14:47.616644+00:00",
+  "date": "2026-10-12",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The 2026 Nobel Peace Prize Winner, and the Pentagon\u2019s Plan to Livestream an Execution",
-      "date": "Oct 9",
-      "duration": "16 min",
-      "is_today": false
+      "title": "Growing Threats Against Public Officials, and Trump\u2019s Diesel Deal With Putin",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Celine Dion\u2019s Triumphant Return to the Stage",
+      "title": "The Israeli Film Directors Pushing for a Reckoning in Their Home Country",
       "date": "Today",
-      "duration": "39 min",
+      "duration": "32 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The 5 Debates Shaping AI",
+      "title": "How to Go from AI Power User to AI Leader",
       "date": "Today",
-      "duration": "25 min",
+      "duration": "39 min",
       "is_today": true
     },
     {
