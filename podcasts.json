@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-10-12T20:14:47.616644+00:00",
-  "date": "2026-10-12",
+  "fetched_at": "2026-10-13T18:11:14.266277+00:00",
+  "date": "2026-10-13",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Growing Threats Against Public Officials, and Trump\u2019s Diesel Deal With Putin",
+      "title": "Musk Pours $276 Million Into the Midterms, and Federal Agents Raid Home of Rep. Ilhan Omar",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Israeli Film Directors Pushing for a Reckoning in Their Home Country",
+      "title": "When A.I. Comes for Your Purpose in Life",
       "date": "Today",
-      "duration": "32 min",
+      "duration": "33 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "How to Go from AI Power User to AI Leader",
-      "date": "Today",
+      "date": "Oct 12",
       "duration": "39 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
