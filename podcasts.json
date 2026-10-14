@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-13T18:11:14.266277+00:00",
-  "date": "2026-10-13",
+  "fetched_at": "2026-10-14T15:47:46.158888+00:00",
+  "date": "2026-10-14",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Musk Pours $276 Million Into the Midterms, and Federal Agents Raid Home of Rep. Ilhan Omar",
+      "title": "The Downfall of Trump\u2019s Ambassador to Greece, and the Pope\u2019s Cancer Diagnosis",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "When A.I. Comes for Your Purpose in Life",
+      "title": "The U.S. Tried to Choke Russia\u2019s Energy Market. Then It Made a Diesel Deal.",
       "date": "Today",
-      "duration": "33 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How to Go from AI Power User to AI Leader",
-      "date": "Oct 12",
-      "duration": "39 min",
+      "title": "Why Muse Wonder Is Dividing AI Users",
+      "date": "Oct 13",
+      "duration": "28 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "OpenAI's Releases \"Intelligent UI\" and Anthropic's New Model",
-      "date": "Oct 9",
-      "duration": "24 min",
+      "title": "Meta's New Model Unveiled Amidst Character.AI Bankruptcy",
+      "date": "Oct 13",
+      "duration": "19 min",
       "is_today": false
     }
   ]
