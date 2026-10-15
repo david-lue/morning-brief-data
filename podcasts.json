@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-14T15:47:46.158888+00:00",
-  "date": "2026-10-14",
+  "fetched_at": "2026-10-15T15:33:42.193399+00:00",
+  "date": "2026-10-15",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The Downfall of Trump\u2019s Ambassador to Greece, and the Pope\u2019s Cancer Diagnosis",
+      "title": "Inflation Data Undercuts Trump\u2019s Economic Claims, and the Danger of New Jet-Powered Drones",
       "date": "Today",
       "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The U.S. Tried to Choke Russia\u2019s Energy Market. Then It Made a Diesel Deal.",
+      "title": "The Republican Strategy to Salvage the Midterms",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "34 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why Muse Wonder Is Dividing AI Users",
-      "date": "Oct 13",
-      "duration": "28 min",
+      "title": "What Gemini 4 Argon Is Actually Good For",
+      "date": "Oct 14",
+      "duration": "31 min",
       "is_today": false
     },
     {
