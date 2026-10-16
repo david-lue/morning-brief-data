@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-15T15:33:42.193399+00:00",
-  "date": "2026-10-15",
+  "fetched_at": "2026-10-16T15:20:50.651257+00:00",
+  "date": "2026-10-16",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Inflation Data Undercuts Trump\u2019s Economic Claims, and the Danger of New Jet-Powered Drones",
+      "title": "A.I.-Generated Ads Flood the Midterms, and Teenager Kills 4 at Oregon Elementary School",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "16 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Republican Strategy to Salvage the Midterms",
+      "title": "MAGA&apos;s Midterm Defectors",
       "date": "Today",
-      "duration": "34 min",
+      "duration": "28 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "What Gemini 4 Argon Is Actually Good For",
-      "date": "Oct 14",
+      "title": "How the Latest AI Leap Is Disrupting Business Models",
+      "date": "Oct 15",
       "duration": "31 min",
       "is_today": false
     },
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Meta's New Model Unveiled Amidst Character.AI Bankruptcy",
-      "date": "Oct 13",
-      "duration": "19 min",
-      "is_today": false
+      "title": "Apple &amp; Meta Bring Muse to Mac, Anthropic Opens Up &amp; Deezer Filters AI Music",
+      "date": "Today",
+      "duration": "14 min",
+      "is_today": true
     }
   ]
 }
