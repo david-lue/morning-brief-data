@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-16T15:20:50.651257+00:00",
-  "date": "2026-10-16",
+  "fetched_at": "2026-10-17T14:10:21.590110+00:00",
+  "date": "2026-10-17",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "A.I.-Generated Ads Flood the Midterms, and Teenager Kills 4 at Oregon Elementary School",
-      "date": "Today",
+      "date": "Oct 16",
       "duration": "16 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "MAGA&apos;s Midterm Defectors",
+      "title": "50 Years In, What&apos;s the Point of U2? Bono and the Edge Have Answers.",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "65 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How the Latest AI Leap Is Disrupting Business Models",
-      "date": "Oct 15",
-      "duration": "31 min",
+      "title": "The Most Important AI News This Week Is Getting Overlooked",
+      "date": "Oct 16",
+      "duration": "29 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Apple &amp; Meta Bring Muse to Mac, Anthropic Opens Up &amp; Deezer Filters AI Music",
+      "title": "Replit Drops Anthropic, Amazon\u2019s Bee AI &amp; Tesla\u2019s \u201cFlying\u201d Roadster",
       "date": "Today",
-      "duration": "14 min",
+      "duration": "15 min",
       "is_today": true
     }
   ]
