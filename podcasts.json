@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-17T14:10:21.590110+00:00",
-  "date": "2026-10-17",
+  "fetched_at": "2026-10-18T14:31:36.055348+00:00",
+  "date": "2026-10-18",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "50 Years In, What&apos;s the Point of U2? Bono and the Edge Have Answers.",
+      "title": "Elizabeth Holmes and Nathan Fielder Keep Us Guessing",
       "date": "Today",
-      "duration": "65 min",
+      "duration": "44 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Most Important AI News This Week Is Getting Overlooked",
-      "date": "Oct 16",
-      "duration": "29 min",
-      "is_today": false
+      "title": "A Potentially Historic AI Breakthrough",
+      "date": "Today",
+      "duration": "24 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "Replit Drops Anthropic, Amazon\u2019s Bee AI &amp; Tesla\u2019s \u201cFlying\u201d Roadster",
-      "date": "Today",
+      "date": "Oct 17",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
