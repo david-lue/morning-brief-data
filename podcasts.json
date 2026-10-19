@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-10-18T14:31:36.055348+00:00",
-  "date": "2026-10-18",
+  "fetched_at": "2026-10-19T17:26:05.467685+00:00",
+  "date": "2026-10-19",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A.I.-Generated Ads Flood the Midterms, and Teenager Kills 4 at Oregon Elementary School",
-      "date": "Oct 16",
-      "duration": "16 min",
-      "is_today": false
+      "title": "Israel\u2019s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market",
+      "date": "Today",
+      "duration": "11 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Elizabeth Holmes and Nathan Fielder Keep Us Guessing",
+      "title": "Inside Putin\u2019s Plan to Cripple Ukraine This Winter",
       "date": "Today",
-      "duration": "44 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "A Potentially Historic AI Breakthrough",
-      "date": "Today",
+      "date": "Oct 18",
       "duration": "24 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
