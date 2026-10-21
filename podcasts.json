@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-20T15:37:28.965943+00:00",
-  "date": "2026-10-20",
+  "fetched_at": "2026-10-21T15:55:08.658679+00:00",
+  "date": "2026-10-21",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The Fight to Tax Billionaires, and Why NDAs Are Everywhere Now",
+      "title": "America\u2019s Utility Bill Crisis, and Trump\u2019s Approval Rating Hits a New Low",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
+      "title": "Is This Economy as Awful as Voters Think? We Ask Our Expert.",
       "date": "Today",
-      "duration": "36 min",
+      "duration": "32 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The AI Wealth Problem",
-      "date": "Oct 19",
-      "duration": "32 min",
+      "title": "Why AI Companies Are Betting Personality Beats Intelligence",
+      "date": "Oct 20",
+      "duration": "29 min",
       "is_today": false
     },
     {
