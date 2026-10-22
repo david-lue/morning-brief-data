@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-21T15:55:08.658679+00:00",
-  "date": "2026-10-21",
+  "fetched_at": "2026-10-22T15:51:27.388590+00:00",
+  "date": "2026-10-22",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "America\u2019s Utility Bill Crisis, and Trump\u2019s Approval Rating Hits a New Low",
+      "title": "New U.S.-Israeli Plans to Attack Iran, and Trump\u2019s Whistle-Blower Rewards Program",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Is This Economy as Awful as Voters Think? We Ask Our Expert.",
+      "title": "The Election That Will Define Israel\u2019s Future",
       "date": "Today",
-      "duration": "32 min",
+      "duration": "34 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why AI Companies Are Betting Personality Beats Intelligence",
-      "date": "Oct 20",
-      "duration": "29 min",
+      "title": "How AI Is Changing What Work Means",
+      "date": "Oct 21",
+      "duration": "28 min",
       "is_today": false
     },
     {
