@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-22T15:51:27.388590+00:00",
-  "date": "2026-10-22",
+  "fetched_at": "2026-10-23T15:42:51.875258+00:00",
+  "date": "2026-10-23",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "New U.S.-Israeli Plans to Attack Iran, and Trump\u2019s Whistle-Blower Rewards Program",
+      "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "15 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Election That Will Define Israel\u2019s Future",
+      "title": "The Battle Over Black Representation in the South",
       "date": "Today",
-      "duration": "34 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How AI Is Changing What Work Means",
-      "date": "Oct 21",
+      "title": "The AI vs AI Battle for the Internet",
+      "date": "Oct 22",
       "duration": "28 min",
       "is_today": false
     },
