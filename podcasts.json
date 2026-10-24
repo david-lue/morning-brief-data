@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-23T15:42:51.875258+00:00",
-  "date": "2026-10-23",
+  "fetched_at": "2026-10-24T14:27:23.107140+00:00",
+  "date": "2026-10-24",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
-      "date": "Today",
+      "date": "Oct 23",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "The Battle Over Black Representation in the South",
+      "title": "What This Democrat\u2019s Surge in Texas Says About the Midterms",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "42 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The AI vs AI Battle for the Internet",
-      "date": "Oct 22",
-      "duration": "28 min",
+      "title": "The Most Concerning AI Bubble Signals",
+      "date": "Oct 23",
+      "duration": "29 min",
       "is_today": false
     },
     {
