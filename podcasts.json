@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-24T14:27:23.107140+00:00",
-  "date": "2026-10-24",
+  "fetched_at": "2026-10-25T14:55:41.305886+00:00",
+  "date": "2026-10-25",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "What This Democrat\u2019s Surge in Texas Says About the Midterms",
+      "title": "Tricks, Treats and Trends",
       "date": "Today",
-      "duration": "42 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The Most Concerning AI Bubble Signals",
-      "date": "Oct 23",
-      "duration": "29 min",
-      "is_today": false
+      "title": "How I'm Actually Using AI Right Now (Including Claude Duet)",
+      "date": "Today",
+      "duration": "32 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
