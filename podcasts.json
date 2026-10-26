@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-25T14:55:41.305886+00:00",
-  "date": "2026-10-25",
+  "fetched_at": "2026-10-26T17:17:57.400257+00:00",
+  "date": "2026-10-26",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
-      "date": "Oct 23",
-      "duration": "15 min",
-      "is_today": false
+      "title": "Brazil\u2019s Election Defies a Right-Wing Trend, and Trump\u2019s Midterm Attacks Enter a New Phase",
+      "date": "Today",
+      "duration": "11 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Tricks, Treats and Trends",
+      "title": "The $10 Billion Midterm Ad War",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "33 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How I'm Actually Using AI Right Now (Including Claude Duet)",
+      "title": "Introducing How We Got Here -- NLW's new podcast",
       "date": "Today",
-      "duration": "32 min",
+      "duration": "6 min",
       "is_today": true
     },
     {
