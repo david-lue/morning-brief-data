@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-10-26T17:17:57.400257+00:00",
-  "date": "2026-10-26",
+  "fetched_at": "2026-10-27T16:30:14.376028+00:00",
+  "date": "2026-10-27",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Brazil\u2019s Election Defies a Right-Wing Trend, and Trump\u2019s Midterm Attacks Enter a New Phase",
+      "title": "Israel\u2019s First Election Since Oct. 7, and What Anthropic\u2019s I.P.O. Means for the Whole Economy",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The $10 Billion Midterm Ad War",
+      "title": "They Protested ICE. Now They\u2019ve Been Convicted of Terrorism.",
       "date": "Today",
-      "duration": "33 min",
+      "duration": "47 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Introducing How We Got Here -- NLW's new podcast",
-      "date": "Today",
-      "duration": "6 min",
-      "is_today": true
+      "title": "4 Questions for AI This Week",
+      "date": "Oct 26",
+      "duration": "27 min",
+      "is_today": false
     },
     {
       "name": "AI + a16z",
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Replit Drops Anthropic, Amazon\u2019s Bee AI &amp; Tesla\u2019s \u201cFlying\u201d Roadster",
-      "date": "Oct 17",
+      "title": "Elon Raises $40B for GPUs, Anthropic's Enterprise Strategy, Microsoft Lays offs 60K",
+      "date": "Today",
       "duration": "15 min",
-      "is_today": false
+      "is_today": true
     }
   ]
 }
