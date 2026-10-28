@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-27T16:30:14.376028+00:00",
-  "date": "2026-10-27",
+  "fetched_at": "2026-10-28T17:08:00.219942+00:00",
+  "date": "2026-10-28",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Israel\u2019s First Election Since Oct. 7, and What Anthropic\u2019s I.P.O. Means for the Whole Economy",
+      "title": "Fl\u00e1vio Bolsonaro Flees Brazil for the U.S., and How ChatGPT Laid Out a Dangerous Medical Plan",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "They Protested ICE. Now They\u2019ve Been Convicted of Terrorism.",
+      "title": "Is Running From Trump Enough to Save Republicans on Tuesday?",
       "date": "Today",
-      "duration": "47 min",
+      "duration": "37 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "4 Questions for AI This Week",
-      "date": "Oct 26",
-      "duration": "27 min",
+      "title": "What Anthropic\u2019s IPO Filing Reveals",
+      "date": "Oct 27",
+      "duration": "29 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Elon Raises $40B for GPUs, Anthropic's Enterprise Strategy, Microsoft Lays offs 60K",
+      "title": "Anthropic Faces FTC Scrutiny as OpenAI Claims a Major Math Breakthrough",
       "date": "Today",
-      "duration": "15 min",
+      "duration": "16 min",
       "is_today": true
     }
   ]
