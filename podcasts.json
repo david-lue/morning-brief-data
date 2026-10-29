@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-28T17:08:00.219942+00:00",
-  "date": "2026-10-28",
+  "fetched_at": "2026-10-29T17:23:23.500682+00:00",
+  "date": "2026-10-29",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Fl\u00e1vio Bolsonaro Flees Brazil for the U.S., and How ChatGPT Laid Out a Dangerous Medical Plan",
+      "title": "At Least 68 Killed in Spain Train Crash, and Democrats\u2019 Secret Effort to Stack Alaska\u2019s Ballot",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Is Running From Trump Enough to Save Republicans on Tuesday?",
+      "title": "A Plan for Two Dans: How Democrats Manipulated Alaska\u2019s Ballot",
       "date": "Today",
-      "duration": "37 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "What Anthropic\u2019s IPO Filing Reveals",
-      "date": "Oct 27",
+      "title": "AI Can Now Create Worlds You Can Change in Real Time",
+      "date": "Oct 28",
       "duration": "29 min",
       "is_today": false
     },
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "Anthropic Faces FTC Scrutiny as OpenAI Claims a Major Math Breakthrough",
-      "date": "Today",
+      "date": "Oct 28",
       "duration": "16 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
