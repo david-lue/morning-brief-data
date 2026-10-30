@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-29T17:23:23.500682+00:00",
-  "date": "2026-10-29",
+  "fetched_at": "2026-10-30T16:59:21.485144+00:00",
+  "date": "2026-10-30",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "At Least 68 Killed in Spain Train Crash, and Democrats\u2019 Secret Effort to Stack Alaska\u2019s Ballot",
+      "title": "Trump Administration Steps Up Midterm Interventions, and Israeli Elections Have No Clear Winner",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "16 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A Plan for Two Dans: How Democrats Manipulated Alaska\u2019s Ballot",
+      "title": "The Art of the Pardon: How Trump Turned Clemency Into a Business",
       "date": "Today",
-      "duration": "27 min",
+      "duration": "34 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Can Now Create Worlds You Can Change in Real Time",
-      "date": "Oct 28",
-      "duration": "29 min",
+      "title": "The AI Rankings Just Got Reshuffled",
+      "date": "Oct 29",
+      "duration": "27 min",
       "is_today": false
     },
     {
