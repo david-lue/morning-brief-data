@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-30T16:59:21.485144+00:00",
-  "date": "2026-10-30",
+  "fetched_at": "2026-10-31T16:01:37.747568+00:00",
+  "date": "2026-10-31",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Trump Administration Steps Up Midterm Interventions, and Israeli Elections Have No Clear Winner",
-      "date": "Today",
+      "date": "Oct 30",
       "duration": "16 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "The Art of the Pardon: How Trump Turned Clemency Into a Business",
+      "title": "Martin McDonagh Has a Vision for Hope. It&apos;s Not for the Faint of Heart.",
       "date": "Today",
-      "duration": "34 min",
+      "duration": "50 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "The AI Rankings Just Got Reshuffled",
-      "date": "Oct 29",
-      "duration": "27 min",
+      "title": "How the Most AI-Pilled Company in the World Works",
+      "date": "Oct 30",
+      "duration": "31 min",
       "is_today": false
     },
     {
