@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-31T16:01:37.747568+00:00",
-  "date": "2026-10-31",
+  "fetched_at": "2026-11-01T17:54:08.975262+00:00",
+  "date": "2026-11-01",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Martin McDonagh Has a Vision for Hope. It&apos;s Not for the Faint of Heart.",
+      "title": "Want to Enjoy Music More? Go For a Run.",
       "date": "Today",
-      "duration": "50 min",
+      "duration": "36 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How the Most AI-Pilled Company in the World Works",
-      "date": "Oct 30",
-      "duration": "31 min",
-      "is_today": false
+      "title": "AI Won\u2019t Make Our Minds Useless According to 400 Years of History",
+      "date": "Today",
+      "duration": "27 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
