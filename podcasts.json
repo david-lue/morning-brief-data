@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-01T17:54:08.975262+00:00",
-  "date": "2026-11-01",
+  "fetched_at": "2026-11-02T21:40:18.903370+00:00",
+  "date": "2026-11-02",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump Administration Steps Up Midterm Interventions, and Israeli Elections Have No Clear Winner",
-      "date": "Oct 30",
-      "duration": "16 min",
-      "is_today": false
+      "title": "The Final Polls Before the Midterms, and a $6 Billion Crypto Heist",
+      "date": "Today",
+      "duration": "11 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Want to Enjoy Music More? Go For a Run.",
+      "title": "A Political Rebellion in the Rio Grande Valley",
       "date": "Today",
-      "duration": "36 min",
+      "duration": "77 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Won\u2019t Make Our Minds Useless According to 400 Years of History",
+      "title": "How to Deslopify Your AI",
       "date": "Today",
-      "duration": "27 min",
+      "duration": "43 min",
       "is_today": true
     },
     {
