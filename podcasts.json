@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-11-02T21:40:18.903370+00:00",
-  "date": "2026-11-02",
+  "fetched_at": "2026-11-03T19:26:42.584120+00:00",
+  "date": "2026-11-03",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The Final Polls Before the Midterms, and a $6 Billion Crypto Heist",
+      "title": "What to Expect on Election Night, and Trump\u2019s $1 Million Voter Fraud Reward",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A Political Rebellion in the Rio Grande Valley",
+      "title": "A Guide to Election Night 2026",
       "date": "Today",
-      "duration": "77 min",
+      "duration": "35 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "How to Deslopify Your AI",
-      "date": "Today",
+      "date": "Nov 2",
       "duration": "43 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
