@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-04T19:41:31.679749+00:00",
-  "date": "2026-11-04",
+  "fetched_at": "2026-11-05T19:52:16.695229+00:00",
+  "date": "2026-11-05",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Democrats Take Congress in a Landslide, and Trump Says He\u2019s \u2018Willing to Accept Those Results\u2019",
+      "title": "What Democrats Plan to Do Next, and What JD Vance Says Went Wrong",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A Landslide Victory for Democrats",
+      "title": "The Voters Who Flipped Congress",
       "date": "Today",
-      "duration": "35 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Lurches Toward Recursive Self-Improvement",
-      "date": "Nov 3",
-      "duration": "27 min",
+      "title": "How the Midterm Results Change AI",
+      "date": "Nov 4",
+      "duration": "25 min",
       "is_today": false
     },
     {
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Anthropic Faces FTC Scrutiny as OpenAI Claims a Major Math Breakthrough",
-      "date": "Oct 28",
-      "duration": "16 min",
-      "is_today": false
+      "title": "AI After the Midterms: Data Center Pressure &amp; ChatGPT\u2019s Next Move",
+      "date": "Today",
+      "duration": "20 min",
+      "is_today": true
     }
   ]
 }
