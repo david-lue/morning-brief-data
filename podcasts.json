@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-05T19:52:16.695229+00:00",
-  "date": "2026-11-05",
+  "fetched_at": "2026-11-06T19:17:25.767915+00:00",
+  "date": "2026-11-06",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "What Democrats Plan to Do Next, and What JD Vance Says Went Wrong",
+      "title": "A Data Center Backlash in the Midterms, and Melania Trump\u2019s Surprising Diplomatic Role",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "17 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Voters Who Flipped Congress",
+      "title": "Chuck Schumer on Governing With (Or Without) Trump",
       "date": "Today",
-      "duration": "29 min",
+      "duration": "34 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How the Midterm Results Change AI",
-      "date": "Nov 4",
-      "duration": "25 min",
+      "title": "Why a Data Center Slowdown Benefits Big Tech",
+      "date": "Nov 5",
+      "duration": "26 min",
       "is_today": false
     },
     {
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "AI After the Midterms: Data Center Pressure &amp; ChatGPT\u2019s Next Move",
-      "date": "Today",
+      "date": "Nov 5",
       "duration": "20 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
