@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-11-06T19:17:25.767915+00:00",
-  "date": "2026-11-06",
+  "fetched_at": "2026-11-07T17:43:22.522596+00:00",
+  "date": "2026-11-07",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "A Data Center Backlash in the Midterms, and Melania Trump\u2019s Surprising Diplomatic Role",
-      "date": "Today",
+      "date": "Nov 6",
       "duration": "17 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Chuck Schumer on Governing With (Or Without) Trump",
+      "title": "Introducing \u2018METRO\u2019 From Serial Productions",
       "date": "Today",
-      "duration": "34 min",
+      "duration": "42 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why a Data Center Slowdown Benefits Big Tech",
-      "date": "Nov 5",
-      "duration": "26 min",
-      "is_today": false
+      "title": "Companies Are Spending 5x More on AI Now",
+      "date": "Today",
+      "duration": "31 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "AI After the Midterms: Data Center Pressure &amp; ChatGPT\u2019s Next Move",
-      "date": "Nov 5",
-      "duration": "20 min",
+      "title": "The AI Agent Race: Perplexity Teammates, Meta Muse &amp; GPT-6 Cyber",
+      "date": "Nov 6",
+      "duration": "14 min",
       "is_today": false
     }
   ]
