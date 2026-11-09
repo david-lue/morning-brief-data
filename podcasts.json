@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-08T17:53:20.381624+00:00",
-  "date": "2026-11-08",
+  "fetched_at": "2026-11-09T22:15:27.731457+00:00",
+  "date": "2026-11-09",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A Data Center Backlash in the Midterms, and Melania Trump\u2019s Surprising Diplomatic Role",
-      "date": "Nov 6",
-      "duration": "17 min",
-      "is_today": false
+      "title": "Nvidia C.E.O. Admits Relationship With Suspected Chinese Spy, and Stephen Miller Takes the Reins",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
+      "title": "After a Crushing Defeat, Trump Doubles Down",
       "date": "Today",
-      "duration": "30 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Agentic Video Is Real and Here\u2019s What You Should Try",
+      "title": "Nvidia CEO Admits Affair With Suspected Chinese Spy",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
