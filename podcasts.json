@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-11-09T22:15:27.731457+00:00",
-  "date": "2026-11-09",
+  "fetched_at": "2026-11-10T19:39:16.366103+00:00",
+  "date": "2026-11-10",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Nvidia C.E.O. Admits Relationship With Suspected Chinese Spy, and Stephen Miller Takes the Reins",
+      "title": "Hegseth Faces Impeachment Charges, and Why Dead Birds Are Washing Up in California",
       "date": "Today",
       "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "After a Crushing Defeat, Trump Doubles Down",
+      "title": "Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "32 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "Nvidia CEO Admits Affair With Suspected Chinese Spy",
-      "date": "Today",
+      "date": "Nov 9",
       "duration": "27 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "The AI Agent Race: Perplexity Teammates, Meta Muse &amp; GPT-6 Cyber",
-      "date": "Nov 6",
-      "duration": "14 min",
-      "is_today": false
+      "title": "Claude Fable 5.2 Is Here \u2014 Plus NVIDIA's Jensen Huang Investigation and Amazon's Home Robot",
+      "date": "Today",
+      "duration": "17 min",
+      "is_today": true
     }
   ]
 }
