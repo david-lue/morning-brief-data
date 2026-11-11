@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-10T19:39:16.366103+00:00",
-  "date": "2026-11-10",
+  "fetched_at": "2026-11-11T19:31:20.216501+00:00",
+  "date": "2026-11-11",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Hegseth Faces Impeachment Charges, and Why Dead Birds Are Washing Up in California",
+      "title": "What One ICE Officer\u2019s Emails Revealed, and the Frantic Scramble Over New Medicaid Rules",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Secrets, Chips and Spycraft: The Nvidia C.E.O. Scandal",
+      "title": "Public Schools Have a New Crisis: Not Enough Students",
       "date": "Today",
-      "duration": "32 min",
+      "duration": "48 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Nvidia CEO Admits Affair With Suspected Chinese Spy",
-      "date": "Nov 9",
-      "duration": "27 min",
+      "title": "Fable 5.2 Is the Best AI Ever. So Why Am I Not Switching Yet?",
+      "date": "Nov 10",
+      "duration": "30 min",
       "is_today": false
     },
     {
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "Claude Fable 5.2 Is Here \u2014 Plus NVIDIA's Jensen Huang Investigation and Amazon's Home Robot",
-      "date": "Today",
+      "date": "Nov 10",
       "duration": "17 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
