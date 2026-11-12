@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-11-11T19:31:20.216501+00:00",
-  "date": "2026-11-11",
+  "fetched_at": "2026-11-12T19:50:49.930684+00:00",
+  "date": "2026-11-12",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "What One ICE Officer\u2019s Emails Revealed, and the Frantic Scramble Over New Medicaid Rules",
+      "title": "A Second Affair Revelation Rocks Nvidia, and a Democrat Wins Mississippi in a Major Senate Upset",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "10 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Public Schools Have a New Crisis: Not Enough Students",
+      "title": "What Jensen Huang\u2019s Resignation Will Mean for A.I.",
       "date": "Today",
-      "duration": "48 min",
+      "duration": "25 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Fable 5.2 Is the Best AI Ever. So Why Am I Not Switching Yet?",
-      "date": "Nov 10",
+      "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
+      "date": "Today",
       "duration": "30 min",
-      "is_today": false
+      "is_today": true
     },
     {
       "name": "AI + a16z",
