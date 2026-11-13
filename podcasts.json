@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-11-12T19:50:49.930684+00:00",
-  "date": "2026-11-12",
+  "fetched_at": "2026-11-13T19:35:07.752429+00:00",
+  "date": "2026-11-13",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "A Second Affair Revelation Rocks Nvidia, and a Democrat Wins Mississippi in a Major Senate Upset",
+      "title": "Huang\u2019s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "16 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "What Jensen Huang\u2019s Resignation Will Mean for A.I.",
+      "title": "Can Israel\u2019s Opposition Unseat Netanyahu?",
       "date": "Today",
-      "duration": "25 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
-      "date": "Today",
+      "date": "Nov 12",
       "duration": "30 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
