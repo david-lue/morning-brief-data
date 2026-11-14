@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-13T19:35:07.752429+00:00",
-  "date": "2026-11-13",
+  "fetched_at": "2026-11-14T17:56:12.493704+00:00",
+  "date": "2026-11-14",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Huang\u2019s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database",
-      "date": "Today",
+      "date": "Nov 13",
       "duration": "16 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Can Israel\u2019s Opposition Unseat Netanyahu?",
+      "title": "Olivia Wilde Hit Bottom. Here&apos;s How She Bounced Back.",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "51 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
-      "date": "Nov 12",
-      "duration": "30 min",
+      "title": "Washington Is Taking Control of AI",
+      "date": "Nov 13",
+      "duration": "27 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Claude Fable 5.2 Is Here \u2014 Plus NVIDIA's Jensen Huang Investigation and Amazon's Home Robot",
-      "date": "Nov 10",
-      "duration": "17 min",
+      "title": "OpenAI Launches ChatGPT Wallet and More AI News",
+      "date": "Nov 13",
+      "duration": "15 min",
       "is_today": false
     }
   ]
