@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-14T17:56:12.493704+00:00",
-  "date": "2026-11-14",
+  "fetched_at": "2026-11-15T18:45:40.989810+00:00",
+  "date": "2026-11-15",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Olivia Wilde Hit Bottom. Here&apos;s How She Bounced Back.",
+      "title": "The Ultraviolent, Wildly Successful, Uniquely American Phenomenon of Grand Theft Auto",
       "date": "Today",
-      "duration": "51 min",
+      "duration": "42 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Washington Is Taking Control of AI",
-      "date": "Nov 13",
-      "duration": "27 min",
-      "is_today": false
+      "title": "7 Things AI-Native Companies Do Differently",
+      "date": "Today",
+      "duration": "23 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "OpenAI Launches ChatGPT Wallet and More AI News",
-      "date": "Nov 13",
-      "duration": "15 min",
-      "is_today": false
+      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     }
   ]
 }
