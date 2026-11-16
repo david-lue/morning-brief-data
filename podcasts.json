@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-15T18:45:40.989810+00:00",
-  "date": "2026-11-15",
+  "fetched_at": "2026-11-16T21:56:05.517079+00:00",
+  "date": "2026-11-16",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Huang\u2019s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database",
-      "date": "Nov 13",
-      "duration": "16 min",
-      "is_today": false
+      "title": "What\u2019s Behind Back-to-Back Meltdowns at the F.A.A. and Microsoft",
+      "date": "Today",
+      "duration": "11 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "The Ultraviolent, Wildly Successful, Uniquely American Phenomenon of Grand Theft Auto",
+      "title": "Finally, a Vaccine for Cancer",
       "date": "Today",
-      "duration": "42 min",
+      "duration": "23 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "7 Things AI-Native Companies Do Differently",
+      "title": "5 Questions That Could Reshape AI",
       "date": "Today",
-      "duration": "23 min",
+      "duration": "28 min",
       "is_today": true
     },
     {
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
-      "date": "Today",
+      "date": "Nov 15",
       "duration": "10 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
