@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-17T20:48:30.198090+00:00",
-  "date": "2026-11-17",
+  "fetched_at": "2026-11-18T20:24:44.102381+00:00",
+  "date": "2026-11-18",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "The A.I. Fight Dividing the Trump Administration, and the Next James Bond",
+      "title": "Tech Outages Rattle the U.S., and Democrats Win Alaska\u2019s Senate Race",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "9 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Democrats Promised Lower Prices. What Can They Actually Do?",
+      "title": "How Stable Is the A.I. Industry? We\u2019re About to Find Out.",
       "date": "Today",
-      "duration": "36 min",
+      "duration": "26 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "5 Questions That Could Reshape AI",
-      "date": "Nov 16",
-      "duration": "28 min",
+      "title": "How Business AI Use is Changing",
+      "date": "Nov 17",
+      "duration": "24 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "AI Website Side Hustles",
+      "title": "Jensen Huang Wants Back In\u2014Will NVIDIA\u2019s Board Budge?",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "15 min",
       "is_today": true
     }
   ]
