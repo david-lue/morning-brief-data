@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-18T20:24:44.102381+00:00",
-  "date": "2026-11-18",
+  "fetched_at": "2026-11-19T20:28:06.816199+00:00",
+  "date": "2026-11-19",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Tech Outages Rattle the U.S., and Democrats Win Alaska\u2019s Senate Race",
+      "title": "Trump Greets Putin as \u2018My Friend,\u2019 and the Rise of GLP-1s for Children",
       "date": "Today",
-      "duration": "9 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "How Stable Is the A.I. Industry? We\u2019re About to Find Out.",
+      "title": "\u2018Did A.I. Break the Internet?\u2019 and Other Things We\u2019ve Worried About This Week",
       "date": "Today",
-      "duration": "26 min",
+      "duration": "29 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How Business AI Use is Changing",
-      "date": "Nov 17",
-      "duration": "24 min",
+      "title": "Why the AI Kids Hate Astra 6.2",
+      "date": "Nov 18",
+      "duration": "25 min",
       "is_today": false
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Jensen Huang Wants Back In\u2014Will NVIDIA\u2019s Board Budge?",
+      "title": "Muse: The Ultimate AI Tool",
       "date": "Today",
-      "duration": "15 min",
+      "duration": "11 min",
       "is_today": true
     }
   ]
