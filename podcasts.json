@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-11-19T20:28:06.816199+00:00",
-  "date": "2026-11-19",
+  "fetched_at": "2026-11-20T20:02:45.027183+00:00",
+  "date": "2026-11-20",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Trump Greets Putin as \u2018My Friend,\u2019 and the Rise of GLP-1s for Children",
+      "title": "Fear and Humiliation at Nvidia, and Why Google Bought Spirit Airlines Data",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "15 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "\u2018Did A.I. Break the Internet?\u2019 and Other Things We\u2019ve Worried About This Week",
+      "title": "What Trump, Putin and Xi Left on the Table",
       "date": "Today",
-      "duration": "29 min",
+      "duration": "28 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why the AI Kids Hate Astra 6.2",
-      "date": "Nov 18",
-      "duration": "25 min",
-      "is_today": false
+      "title": "Why You Should Try Gemini Neon (Even if You Love Fable)",
+      "date": "Today",
+      "duration": "27 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "Muse: The Ultimate AI Tool",
-      "date": "Today",
+      "date": "Nov 19",
       "duration": "11 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
