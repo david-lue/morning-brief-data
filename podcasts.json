@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-11-20T20:02:45.027183+00:00",
-  "date": "2026-11-20",
+  "fetched_at": "2026-11-21T19:06:27.309933+00:00",
+  "date": "2026-11-21",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "Fear and Humiliation at Nvidia, and Why Google Bought Spirit Airlines Data",
-      "date": "Today",
+      "date": "Nov 20",
       "duration": "15 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "What Trump, Putin and Xi Left on the Table",
+      "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "55 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "Why You Should Try Gemini Neon (Even if You Love Fable)",
-      "date": "Today",
+      "date": "Nov 20",
       "duration": "27 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
