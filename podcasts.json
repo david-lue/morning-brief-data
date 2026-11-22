@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-21T19:06:27.309933+00:00",
-  "date": "2026-11-21",
+  "fetched_at": "2026-11-22T19:29:23.675735+00:00",
+  "date": "2026-11-22",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,17 +11,17 @@
     },
     {
       "name": "The Daily",
-      "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
+      "title": "A Thanksgiving Dinner for $100? Yes, It\u2019s Possible (and Delicious).",
       "date": "Today",
-      "duration": "55 min",
+      "duration": "33 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Why You Should Try Gemini Neon (Even if You Love Fable)",
-      "date": "Nov 20",
-      "duration": "27 min",
-      "is_today": false
+      "title": "When AI Labs Rival Nations",
+      "date": "Today",
+      "duration": "25 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Muse: The Ultimate AI Tool",
-      "date": "Nov 19",
+      "title": "Unlocking AI for Video Editing Success",
+      "date": "Today",
       "duration": "11 min",
-      "is_today": false
+      "is_today": true
     }
   ]
 }
