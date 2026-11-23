@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2026-11-22T19:29:23.675735+00:00",
-  "date": "2026-11-22",
+  "fetched_at": "2026-11-23T23:47:32.111216+00:00",
+  "date": "2026-11-23",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Fear and Humiliation at Nvidia, and Why Google Bought Spirit Airlines Data",
-      "date": "Nov 20",
-      "duration": "15 min",
-      "is_today": false
+      "title": "Why U.N. Climate Talks Collapsed, and How China\u2019s Spies Set Sights on A.I. Chips",
+      "date": "Today",
+      "duration": "10 min",
+      "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "A Thanksgiving Dinner for $100? Yes, It\u2019s Possible (and Delicious).",
+      "title": "Measles Is Officially Back. What Now?",
       "date": "Today",
-      "duration": "33 min",
+      "duration": "24 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "When AI Labs Rival Nations",
+      "title": "Too Big to Fire: Jensen Huang Is Back as Nvidia CEO",
       "date": "Today",
       "duration": "25 min",
       "is_today": true
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Unlocking AI for Video Editing Success",
+      "title": "Jensen Huang Is Back as NVIDIA CEO\u2014Stock Surges 30%+",
       "date": "Today",
-      "duration": "11 min",
+      "duration": "16 min",
       "is_today": true
     }
   ]
