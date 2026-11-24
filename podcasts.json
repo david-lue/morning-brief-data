@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-23T23:47:32.111216+00:00",
-  "date": "2026-11-23",
+  "fetched_at": "2026-11-24T22:18:55.891696+00:00",
+  "date": "2026-11-24",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Why U.N. Climate Talks Collapsed, and How China\u2019s Spies Set Sights on A.I. Chips",
+      "title": "Why Trump Pushed to Save Jensen Huang, and Iowa Braces for a Toxic Explosion",
       "date": "Today",
-      "duration": "10 min",
+      "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Measles Is Officially Back. What Now?",
+      "title": "Too Big to Fire: Jensen Huang\u2019s Return to Nvidia",
       "date": "Today",
-      "duration": "24 min",
+      "duration": "31 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "Too Big to Fire: Jensen Huang Is Back as Nvidia CEO",
+      "title": "AI Just Made History in the Middle of a Meltdown",
       "date": "Today",
-      "duration": "25 min",
+      "duration": "30 min",
       "is_today": true
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Jensen Huang Is Back as NVIDIA CEO\u2014Stock Surges 30%+",
+      "title": "Strategies for Hiring Interns and VAs",
       "date": "Today",
-      "duration": "16 min",
+      "duration": "13 min",
       "is_today": true
     }
   ]
