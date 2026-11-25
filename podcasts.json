@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-11-24T22:18:55.891696+00:00",
-  "date": "2026-11-24",
+  "fetched_at": "2026-11-25T21:35:59.742972+00:00",
+  "date": "2026-11-25",
   "episodes": [
     {
       "name": "The Headlines",
-      "title": "Why Trump Pushed to Save Jensen Huang, and Iowa Braces for a Toxic Explosion",
+      "title": "How ICE Training Turned Into a \u2018Catastrophic Failure,\u2019 and Grocery Stores\u2019 Thanksgiving Gamble",
       "date": "Today",
       "duration": "11 min",
       "is_today": true
     },
     {
       "name": "The Daily",
-      "title": "Too Big to Fire: Jensen Huang\u2019s Return to Nvidia",
+      "title": "Democrats\u2019 New Climate Strategy? Deregulation.",
       "date": "Today",
-      "duration": "31 min",
+      "duration": "28 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
       "title": "AI Just Made History in the Middle of a Meltdown",
-      "date": "Today",
+      "date": "Nov 24",
       "duration": "30 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "AI + a16z",
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "Strategies for Hiring Interns and VAs",
-      "date": "Today",
+      "date": "Nov 24",
       "duration": "13 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
