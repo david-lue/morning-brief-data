@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-11-25T21:35:59.742972+00:00",
-  "date": "2026-11-25",
+  "fetched_at": "2026-11-26T21:25:07.644073+00:00",
+  "date": "2026-11-26",
   "episodes": [
     {
       "name": "The Headlines",
       "title": "How ICE Training Turned Into a \u2018Catastrophic Failure,\u2019 and Grocery Stores\u2019 Thanksgiving Gamble",
-      "date": "Today",
+      "date": "Nov 25",
       "duration": "11 min",
-      "is_today": true
+      "is_today": false
     },
     {
       "name": "The Daily",
-      "title": "Democrats\u2019 New Climate Strategy? Deregulation.",
+      "title": "Don\u2019t Let Go: My Balloon Training for the Macy\u2019s Thanksgiving Day Parade",
       "date": "Today",
-      "duration": "28 min",
+      "duration": "32 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "AI Just Made History in the Middle of a Meltdown",
-      "date": "Nov 24",
-      "duration": "30 min",
-      "is_today": false
+      "title": "How Anthropic Went From Anti-Product to $81B a Year",
+      "date": "Today",
+      "duration": "20 min",
+      "is_today": true
     },
     {
       "name": "AI + a16z",
@@ -32,10 +32,10 @@
     },
     {
       "name": "Hugging Face",
-      "title": "Strategies for Hiring Interns and VAs",
-      "date": "Nov 24",
-      "duration": "13 min",
-      "is_today": false
+      "title": "Creating Lead Generation Tools for Your Business",
+      "date": "Today",
+      "duration": "12 min",
+      "is_today": true
     }
   ]
 }
