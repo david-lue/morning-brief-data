@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-26T21:25:07.644073+00:00",
-  "date": "2026-11-26",
+  "fetched_at": "2026-11-27T21:07:03.203458+00:00",
+  "date": "2026-11-27",
   "episodes": [
     {
       "name": "The Headlines",
@@ -11,16 +11,16 @@
     },
     {
       "name": "The Daily",
-      "title": "Don\u2019t Let Go: My Balloon Training for the Macy\u2019s Thanksgiving Day Parade",
+      "title": "From Wirecutter: Don\u2019t let Inflated Prices Ruin your Black Friday",
       "date": "Today",
-      "duration": "32 min",
+      "duration": "24 min",
       "is_today": true
     },
     {
       "name": "AI Daily Brief",
-      "title": "How Anthropic Went From Anti-Product to $81B a Year",
+      "title": "AI is Too Big to Fail",
       "date": "Today",
-      "duration": "20 min",
+      "duration": "27 min",
       "is_today": true
     },
     {
@@ -33,9 +33,9 @@
     {
       "name": "Hugging Face",
       "title": "Creating Lead Generation Tools for Your Business",
-      "date": "Today",
+      "date": "Nov 26",
       "duration": "12 min",
-      "is_today": true
+      "is_today": false
     }
   ]
 }
